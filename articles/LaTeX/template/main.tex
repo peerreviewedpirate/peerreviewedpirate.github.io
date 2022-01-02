@@ -1,0 +1,142 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt, a4paper, twocolumn]{book} 
+
+\input{../resources/structure.tex} % Specifies the document structure and loads requires packages
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{\begin{center}Title Goes Here\end{center}} % The article title
+
+\author{
+	\begin{center}
+		\authorstyle{Antonius W. Torode\textsuperscript{1,2,3,4}} % Authors
+		\newline\newline % Space before institutions
+		\textsuperscript{1}\institution{Engineering Scientist Associate, University of Texas: Austin}\\
+		\textsuperscript{2}\institution{Degree in Biblical Studies, Ambassador Bible College}\\ 
+		\textsuperscript{3}\institution{Bachelors of Physics, Michigan State University}\\ 
+		\textsuperscript{4}\institution{Bachelors of Mathematics, Michigan State University}\\ 
+	\end{center}
+}
+
+\date{} % Add a date here if you would like one to appear underneath the title block, use \today for the current date, leave empty for no date
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Print the title
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\abstract{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus nisi ligula. Morbi laoreet ex ligula, vitae lobortis purus mattis vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec ac metus ut turpis mollis placerat et nec enim. Duis tristique nibh maximus faucibus facilisis. Praesent in consequat leo. Maecenas condimentum ex rhoncus, elementum diam vel, malesuada ante.}
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+\section{Section 1}
+
+This sentence requires citation \citep{dirac}. This sentence requires multiple citations to imply that it is better supported \citep{knuthwebsite,knuth-fa}. Finally, when conducting an appeal to authority, it can be useful to cite a reference in-text, much like \cite{einstein} do quite a bit. Oh, and make sure to check out the bear in Figure \ref{bear}\footnote{This is a reference}.
+
+\subsection{Subsection 1}
+
+\bluebox{ Fancy Box }{\lipsum[1]}{17}
+
+\lipsum[1-2]
+
+\begin{itemize}
+	\item First item in a list 
+	\item Second item in a list 
+	\item Third item in a list
+\end{itemize}
+
+
+\lipsum[2]
+
+Nam dui ligula, fringilla a, euismod sodales, sollic-itudin vel, wisi. Morbi auctor lorem non justo.\vspace{17\baselineskip} Namlacus libero, pretium at, lobortis vitae, ultricies et,tellus. Donec aliquet, tortor sed accumsan biben-dum, erat ligula aliquet magna, vitae ornare odiometus a mi.  Morbi ac orci et nisl hendrerit mollis.Suspendisse ut massa. Cras nec ante. Pellentesquea nulla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquamtincidunt urna. Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris.Nam dui ligula, fringilla a, euismod sodales, sollic-itudin vel, wisi. Morbi\footnote{ Pellentesquea nulla. Cum sociis natoque penatibus et magnis dispar turient montes, nascetur ridiculus mus. Aliquamtincidunt urna. Nulla ullamcorper vestibulum turpis.Pellentesque cursus luctus mauris.} auctor lorem non justo. Namlacus libero, pretium at, lobortis vitae, ultricies et,tellus. Donec aliquet, tortor sed accumsan biben-dum, erat ligula aliquet magna, vitae ornare odiometus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras nec ante. Pellentesquea nulla. Cum sociis natoque penatibus et magnis dispar turient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris. 
+
+
+\begin{description}
+	\item[First] This is the first item
+	\item[Last] This is the last item
+\end{description}
+
+%------------------------------------------------
+
+\subsection{Subsection 2}
+
+\lipsum[5]
+
+\begin{enumerate}
+	\item First numbered item in a list
+	\item Second numbered item in a list
+	\item Third numbered item in a list
+\end{enumerate}
+
+%------------------------------------------------
+
+\section{Section 2}
+
+\begin{figure}
+	\includegraphics[width=\linewidth]{bear.jpg} % Figure image
+	\caption{A majestic grizzly bear} % Figure caption
+	\label{bear} % Label for referencing with \ref{bear}
+\end{figure}
+
+\lipsum[6-10]
+
+\begin{table}
+	\caption{Example table}
+	\centering
+	\begin{tabular}{llr}
+		\toprule
+		\multicolumn{2}{c}{Name} \\
+		\cmidrule(r){1-2}
+		First Name & Last Name & Grade \\
+		\midrule
+		John & Doe & $7.5$ \\
+		Richard & Miles & $5$ \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\lipsum[11]
+
+In mathematics, the Pythagorean theorem, also known as Pythagoras' theorem, is a relation in Euclidean geometry among the three sides of a right triangle.
+
+\begin{fancybox}[Pythagoras' theorem]{thm:pythagoras}
+	In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the catheti.
+	$$a^2+b^2=c^2$$
+\end{fancybox}
+
+\lipsum[11-18]
+
+\begin{formal}
+	Some text goes here. Perhaps a cool quote or fancy tidbit of information.
+\end{formal}
+
+\lipsum[18-24]
+
+\imagebox{Title of Box}{Here's some information to put in this box. The background of this box is an image.}
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\section{References}
+\begingroup
+\let\clearpage\relax
+\pagestyle{fancy}
+\printbibliography[heading=none]
+\endgroup
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

@@ -1,0 +1,322 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\usepackage[english]{babel} % English language hyphenation
+
+\usepackage{flushend} % make columns in last page even length
+
+\usepackage{microtype} % Better typography
+
+\usepackage{amsmath,amsfonts,amsthm} % Math packages for equations
+
+\usepackage[svgnames]{xcolor} % Enabling colors by their 'svgnames'
+
+\usepackage[hang, small, labelfont=bf, up, textfont=it]{caption} % Custom captions under/above tables and figures
+
+\usepackage{booktabs} % Horizontal rules in tables
+
+\usepackage{lastpage} % Used to determine the number of pages in the document (for "Page X of Total")
+
+\usepackage{graphicx} % Required for adding images
+
+\usepackage{enumitem} % Required for customising lists
+\setlist{noitemsep} % Remove spacing between bullet/numbered list elements
+
+\usepackage{sectsty} % Enables custom section titles
+\allsectionsfont{\usefont{OT1}{phv}{b}{n}} % Change the font of all section commands (Helvetica)
+
+%----------------------------------------------------------------------------------------
+%	MARGINS AND SPACING
+%----------------------------------------------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions
+
+\geometry{
+	top=1cm, % Top margin
+	bottom=1.5cm, % Bottom margin
+	left=2cm, % Left margin
+	right=2cm, % Right margin
+	includehead, % Include space for a header
+	includefoot, % Include space for a footer
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+\setlength{\columnsep}{7mm} % Column separation width
+
+%----------------------------------------------------------------------------------------
+%	FONTS
+%----------------------------------------------------------------------------------------
+
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+
+\usepackage{XCharter} % Use the XCharter font
+
+%----------------------------------------------------------------------------------------
+%	HEADERS AND FOOTERS
+%----------------------------------------------------------------------------------------
+
+\usepackage{fancyhdr} % Needed to define custom headers/footers
+\pagestyle{fancy} % Enables the custom headers/footers
+
+\renewcommand{\headrulewidth}{0.0pt} % No header rule
+\renewcommand{\footrulewidth}{0.0pt} % Thin footer rule
+
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}} % Removes the section number from the header when \leftmark is used
+
+%\nouppercase\leftmark % Add this to one of the lines below if you want a section title in the header/footer
+
+\fancyhf {} % clear all headers and footers
+
+%Header includes the page background
+\fancyhead{
+	\begin{tikzpicture}[remember picture,overlay]
+		\node[inner sep=0pt] at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{../images/paper-white}};
+	\end{tikzpicture}
+}
+
+% Left-even page footer
+\fancyfoot[LE]{%
+	\begin{tikzpicture}[remember picture,overlay]
+		\node[xscale=-1,inner sep=0pt,anchor=south,nearly opaque] at (current page.south) {\includegraphics[width=\paperwidth,height=.6in]{../images/footerscroll.png}};
+		\node[inner sep=0pt,anchor=south,xshift=.28in,yshift=.39in] at (current page.south west) {\thepage};
+	\end{tikzpicture}
+}
+
+% Right-odd page footer
+\fancyfoot[RO]{%
+	\begin{tikzpicture}[remember picture,overlay]
+		\node[inner sep=0pt,anchor=south,nearly opaque] at (current page.south) {\includegraphics[width=\paperwidth,height=.6in]{../images/footerscroll.png}};
+		\node[inner sep=0pt,anchor=south,xshift=-.28in,yshift=.39in] at (current page.south east) {\thepage};
+	\end{tikzpicture}
+}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\authorstyle}[1]{{\large\usefont{OT1}{phv}{b}{n}\color{DarkBlue}#1}} % Authors style (Helvetica)
+
+\newcommand{\institution}[1]{{\footnotesize\usefont{OT1}{phv}{m}{sl}\color{Black}#1}} % Institutions style (Helvetica)
+
+\usepackage{titling} % Allows custom title configuration
+
+\newcommand{\HorRule}{\color{DarkBlue}\rule{\linewidth}{1pt}} % Defines the gold horizontal rule around the title
+
+\pretitle{
+	\vspace{-50pt} % Move the entire title section up
+	\includegraphics[width=\linewidth]{../images/banner/PRP-banner.png}
+	%\HorRule\vspace{10pt} % Horizontal rule before the title
+	\fontsize{32}{36}\usefont{OT1}{phv}{b}{n}\selectfont % Helvetica
+	\color{DarkBlue} % Text colour for the title and author(s)
+}
+
+
+\posttitle{\par\vskip 3pt} % Whitespace under the title
+
+\preauthor{} % Anything that will appear before \author is printed
+
+\usepackage{multicol, etoolbox}
+\setcounter{tocdepth}{3} %set depth of printed table of contets.
+\makeatletter
+\patchcmd{\l@section}
+{\hfil}
+{\leaders\hbox{\normalfont$\m@th\mkern \@dotsep mu\hbox{.}\mkern \@dotsep     mu$}\hfill}
+{}{}
+
+\renewcommand\tableofcontents{%
+	\begin{multicols}{2}
+		\@starttoc{toc}%
+	\end{multicols}%
+}
+\makeatother %print dots in sections in toc.
+
+\postauthor{ % Anything that will appear after \author is printed
+	\vspace{3pt} % Space before the rule
+	\begin{center}
+		\fontsize{16}{18}\usefont{OT1}{phv}{b}{n}\selectfont % Helvetica
+		\color{DarkBlue} % Text colour for the title and author(s)
+		Issue 001 - \today
+	\end{center}
+	\vspace{3pt} % Space before the rule
+	\par\HorRule % Horizontal rule after the title
+	\vspace{5pt} % Space after the title section
+	\vspace{5pt} % Space after the title section
+	\begin{minipage}{\linewidth}
+		\renewcommand\contentsname{} % the empty name for toc
+		\begingroup
+		\let\clearpage\relax
+		\vspace{0.5cm}
+		\small\tableofcontents
+		\thispagestyle{fancy}
+		\endgroup
+	\end{minipage}
+}
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\usepackage{lettrine} % Package to accentuate the first letter of the text (lettrine)
+\usepackage{fix-cm}	% Fixes the height of the lettrine
+
+\newcommand{\initial}[1]{ % Defines the command and style for the lettrine
+	\lettrine[lines=2,findent=4pt,nindent=0pt]{% Lettrine takes up 3 lines, the text to the right of it is indented 4pt and further indenting of lines 2+ is stopped
+		\color{DarkBlue}% Lettrine colour
+		{#1}% The letter
+	}{}%
+}
+
+\usepackage{xstring} % Required for string manipulation
+	
+\usepackage{stfloats} % Allows the H option in figures.
+
+\newcommand{\abstract}[1]{
+	\begin{figure*}[t]
+		\centering
+		\begin{minipage}{0.9\textwidth}
+			\HorRule\color{black}\vspace{-6pt}
+			\StrLeft{#1}{1}[\firstletter] % Capture the first letter of the abstract for the lettrine
+			\initial{\firstletter}\textbf{\StrGobbleLeft{#1}{1}} % Print the abstract with the first letter as a lettrine and the rest in bold
+			\HorRule
+		\end{minipage}
+	\end{figure*}
+}
+
+%----------------------------------------------------------------------------------------
+%	Section Titles
+%----------------------------------------------------------------------------------------
+
+\setcounter{secnumdepth}{0}
+
+\usepackage{titlesec}
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
+
+\addbibresource{../resources/references.bib} % The filename of the bibliography
+
+\usepackage[autostyle=true]{csquotes} % Required to generate language-dependent quotes in the bibliography
+
+%----------------------------------------------------------------------------------------
+%   FANCY BOXES
+%----------------------------------------------------------------------------------------
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,snakes}
+\usepackage{amsmath, amssymb}
+\usepackage{polynom}
+
+\usepackage{wrapfig}
+
+\usepackage{lipsum}
+
+% Define box and box title style
+\tikzstyle{mybox} = [draw=blue, fill=cyan!20, very thick, rectangle, rounded corners, inner sep=15pt]
+\tikzstyle{fancytitle} =[fill=LightBlue, text=black, draw=blue, very thick]
+
+\newcommand{\bluebox}[3]{
+	\begin{wrapfigure}[#3]{r}[\dimexpr\columnwidth+\columnsep\relax]{11.5cm}
+		\resizebox{12cm}{\height}{
+			\begin{tikzpicture}
+				\node [mybox] (box){%
+					\begin{minipage}{0.70\textwidth}
+						#2
+					\end{minipage}
+				};
+				\node[fancytitle, right=10pt] at (box.north west) {\hspace{2pt}#1\hspace{2pt}};
+				%\node[fancytitle, rounded corners] at (box.east) {$\clubsuit$};
+			\end{tikzpicture}%
+		}
+	\end{wrapfigure}
+}
+
+\usepackage[framemethod=TikZ]{mdframed}
+	
+\newenvironment{fancybox}[2][]{%
+	\ifstrempty{#1}%
+	{\mdfsetup{%
+			frametitle={%
+				\tikz[baseline=(current bounding box.east),outer sep=0pt]
+				\node[anchor=east,rectangle,fill=LightBlue]
+				{\strut};}}
+	}%
+	{\mdfsetup{%
+			frametitle={%
+				\tikz[baseline=(current bounding box.east),outer sep=1pt]
+				\node[draw=blue,anchor=east,rectangle,fill=LightBlue,rounded corners]
+				{\hspace{3pt}#1\hspace{3pt}};}}%
+	}%
+	\mdfsetup{innertopmargin=5pt,linecolor=DarkBlue,%
+		linewidth=1pt,topline=true,,%
+		frametitleaboveskip=\dimexpr-\ht\strutbox\relax
+	}
+	\begin{mdframed}[backgroundcolor=cyan!20]\relax%
+		\label{#2}}{\vspace{4pt}\end{mdframed}}
+	
+% for adjustwidth environment
+\usepackage[strict]{changepage}
+
+% for formal definitions
+\usepackage{framed}
+
+% environment derived from framed.sty: see leftbar environment definition
+\definecolor{formalshade}{rgb}{0.95,0.95,1}
+
+%\newenvironment{formal}{%
+%	\def\FrameCommand{%
+%		\hspace{1pt}%
+%		{\color{DarkBlue}\vrule width 2pt}%
+%		{\color{cyan!20}\vrule width 4pt}%
+%		\colorbox{cyan!20}%
+%	}%
+%	\MakeFramed{\advance\hsize-\width\FrameRestore}%
+%	\noindent\hspace{-4.55pt}% disable indenting first paragraph
+%	\begin{adjustwidth}{}{7pt}%
+%		\vspace{2pt}\vspace{2pt}%
+%	}
+%	{%
+%		\vspace{2pt}\end{adjustwidth}\endMakeFramed%
+%}
+
+\interfootnotelinepenalty=10000 % Keeps footnotes on one page
+
+\newenvironment{formal}{%
+	\def\FrameCommand{%
+	{}%
+	{}%
+}%
+\MakeFramed{\begin{mdframed}[backgroundcolor=cyan!20, bottomline=false, topline=false, rightline=false, linewidth=2pt, linecolor=DarkBlue]\relax\advance\hsize-\width\FrameRestore}%
+\noindent\hspace{-4.55pt}% disable indenting first paragraph
+\begin{adjustwidth}{}{7pt}%
+}
+{%
+	\end{adjustwidth}\vspace{2pt}\end{mdframed}\endMakeFramed%
+}
+
+\usepackage{tikz,lipsum,lmodern}
+\usepackage[most]{tcolorbox}
+
+\newcommand{\imagebox}[2]{
+	\begin{tcolorbox}[enhanced,frame style image=../images/blue-abstract.jpg, 
+		opacityback=0.75,opacitybacktitle=0.25,
+		colback=blue!5!white,colframe=blue!75!black,title=#1]
+		#2
+	\end{tcolorbox}
+}
+
+
+\newcommand\blankfootnote[1]{%
+	\let\thefootnote\relax\footnotetext{#1}%
+	\let\thefootnote\svthefootnote%
+}
+
+
+
+\AtBeginBibliography{\small} % Makes the references smaller.
