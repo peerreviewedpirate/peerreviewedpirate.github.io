@@ -7,11 +7,8 @@
 
 # These are the files that the footer will be added to. They must all be html files.
 filenames = ['index',
-             'articles/introduction'
-             'articles/helloWorld',
-             'articles/localGitSetup',
-             'articles/construction',
-             'articles/createFromTemplate']
+             'articles/001',
+             'articles/construction']
 
 # This is the template file containing the footer html.
 templateFileName = 'footer.html'
