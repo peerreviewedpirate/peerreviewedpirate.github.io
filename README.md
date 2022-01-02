@@ -1,5 +1,2 @@
-# peerreviewedpirate.github.io
-peerreviewedpirate Homepage
-
-
-test commit
+# GitWebsiteTutorial.github.io
+A github.io website tutorial for creating a webpage.

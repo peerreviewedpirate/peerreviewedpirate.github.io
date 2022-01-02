@@ -1,0 +1,217 @@
+/* Styles for footer. */
+.footer {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #372D14 !important;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.footer a {
+    transition: all 0.33s;
+    color: #372D14 !important;
+    text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    .footer a {
+        font-size: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .footer a {
+        font-size: 100%;
+    }
+}
+
+.footer a:hover,
+.footer a:active {
+    text-shadow: 0 0 15px #99774c, 0 -5px 20px #a17e51, 0 5px 20px #96744a;
+    color: #ffffff !important;
+}
+
+.footer .footer-nav {
+    text-align: center;
+    font-size: 80%;
+}
+
+@media (min-width: 768px) {
+    .footer .footer-nav {
+        text-align: left;
+    }
+}
+
+.footer .footer-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer .footer-nav ul li {
+    display: inline-block;
+    padding-right: 1rem;
+}
+
+.footer .social-nav,
+.footer .social-nav-header {
+    font-size: 120%;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .footer .social-nav,
+    .footer .social-nav-header {
+        text-align: right;
+        margin-top: 0;
+    }
+}
+
+.footer .social-nav a,
+.footer .social-nav-header a {
+    padding: 0.5rem;
+    border: none !important;
+}
+
+.footer .copyright {
+    font-family: "Cinzel Decorative", "Palatino Light", Times, Times New Roman, Georgia, serif;
+    text-rendering: optimizeLegibility;
+    letter-spacing: 0.2rem;
+    text-align: center;
+    margin-top: 1.75rem;
+    color: #000000;
+    font-size: 140%;
+}
+
+
+/* Styles for social media icons */
+.fa-facebook {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-twitter {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-google {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-linkedin {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-youtube {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-instagram {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-github {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-github {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-windows {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-apple {
+    color: #000000;
+    text-decoration: none;
+}
+.fa-pencil-alt {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* Styles for containers */
+.row {
+    margin-left: -15px;
+    margin-right: -15px
+}
+
+.container .jumbotron,
+.container-fluid .jumbotron {
+    border-radius: 6px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.jumbotron .container {
+    max-width: 100%
+}
+
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        padding-top: 48px;
+        padding-bottom: 48px
+    }
+
+    .container .jumbotron,
+    .container-fluid .jumbotron {
+        padding-left: 60px;
+        padding-right: 60px
+    }
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 63px
+    }
+}
+
+.col-xs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.col-sm-6 {
+    float: left
+}
+
+.background-image {
+    background-image: url('../images/background.jpg') !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;"
+}
+
+.list-item {
+    display: block;
+}
+
+.list-item:hover {
+    background-color: #FDDDB9 !important;
+}
+
+.list-item a {
+    text-decoration: none;
+    display: block;
+}
+
+p {
+    text-align: left;
+}
+
+.blueBackground {
+    background-color: lightblue;
+}
+
+.content-article {
+    padding: 16px 8px;
+}
