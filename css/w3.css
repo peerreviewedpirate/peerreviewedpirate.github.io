@@ -1013,7 +1013,6 @@ a {
 }
 
 .w3-card, .w3-card-2 {
-	background-image: url("../images/paper-white.jpg") !important;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
 }
 
@@ -1497,7 +1496,6 @@ a {
 }
 
 .w3-light-paper, .w3-hover-light-paper:hover {
-    color: #000 !important;
     background-image: url("../images/paper-white.jpg"); !important
 }
 
