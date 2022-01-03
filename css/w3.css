@@ -1496,7 +1496,8 @@ a {
 }
 
 .w3-light-wood, .w3-hover-light-wood:hover {
-    background-image: url("../images/paper-white.jpg") !important
+    color: #000 !important;
+   background-image: url("../images/paper-white.jpg") !important
 }
 
 .w3-wood, .w3-hover-wood:hover {
