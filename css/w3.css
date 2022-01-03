@@ -1501,6 +1501,7 @@ a {
 }
 
 .w3-light-paper, .w3-hover-light-paper:hover {
+    color: #000 !important;
     background-image: url('../images/paper-white.jpg') !important
 }
 
