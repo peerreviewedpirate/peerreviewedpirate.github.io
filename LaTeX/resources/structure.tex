@@ -23,6 +23,8 @@
 \usepackage{enumitem} % Required for customising lists
 \setlist{noitemsep} % Remove spacing between bullet/numbered list elements
 
+%\usepackage{hyperref} % adds hyperlinks
+
 \usepackage{sectsty} % Enables custom section titles
 \allsectionsfont{\usefont{OT1}{phv}{b}{n}} % Change the font of all section commands (Helvetica)
 
@@ -195,6 +197,11 @@
 \titleformat{\section}
 {\normalfont\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
 
+\usepackage[titles]{tocloft}
+\renewcommand{\cftsecfont}{\bfseries}% sections in bold
+\renewcommand{\cftsubsubsecfont}{\itshape}% subsubsections italicised
+
+
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
@@ -238,6 +245,8 @@
 	\end{wrapfigure}
 }
 
+
+
 \usepackage[framemethod=TikZ]{mdframed}
 	
 \newenvironment{fancybox}[2][]{%
@@ -266,6 +275,10 @@
 
 % for formal definitions
 \usepackage{framed}
+
+\renewenvironment{framed}[1][\hsize]
+{\MakeFramed{\hsize#1\advance\hsize-\width \FrameRestore}}%
+{\endMakeFramed}
 
 % environment derived from framed.sty: see leftbar environment definition
 \definecolor{formalshade}{rgb}{0.95,0.95,1}
@@ -312,6 +325,13 @@
 	\end{tcolorbox}
 }
 
+
+\newcommand{\sectionEnd}{
+	\begin{center}
+		\vspace{10pt}
+		\includegraphics[width=0.9\linewidth]{../images/section_break.png}
+	\end{center}
+}
 
 \newcommand\blankfootnote[1]{%
 	\let\thefootnote\relax\footnotetext{#1}%
