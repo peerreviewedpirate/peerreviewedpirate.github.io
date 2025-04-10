@@ -1,0 +1,2337 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global/global}
+  \entry{FiveDayCourseIvermectin}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=ASRAHMCJSMPCRMZKSJYRHMKAAAKWKM}{%
+         family={Ahmed\bibnamedelima S},
+         familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+         suffix={Karim\bibnamedelima MM},
+         suffixi={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Ross AG Hossain MS Clemens JD Sumiya MK Phru CS Rahman M Zaman
+  K Somani J Yasmin R Hasnat MA Kabir A Aziz AB Khan\bibnamedelima WA.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  Z\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  Y\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASKMRAHMCJSMPCRMZKSJYRHMKAAAKW1}
+    \strng{fullhash}{ASKMRAHMCJSMPCRMZKSJYRHMKAAAKW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{doi: 10.1016/j.ijid.2020.11.191}
+    \field{pages}{214\bibrangedash 216}
+    \field{title}{A five-day course of ivermectin for the treatment of COVID-19
+  may reduce the duration of illness}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/33278625/
+    \endverb
+    \field{volume}{103}
+    \field{journaltitle}{Int J Infect Dis.}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PREPAct}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=AMAISoH}{%
+         family={Alex M. Azar\bibnamedelima II},
+         familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim I\bibinitperiod},
+         given={Secretary of\bibnamedelima Health},
+         giveni={S\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Services},
+         familyi={S\bibinitperiod},
+         given={Human},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMAISoHSH1}
+    \strng{fullhash}{AMAISoHSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Declaration Under the Public Readiness and Emergency
+  Preparedness Act for Medical Countermeasures Against COVID-19}
+    \verb{url}
+    \verb https://www.federalregister.gov/documents/2020/03/17/2020-05484/decla
+    \verb ration-under-the-public-readiness-and-emergency-preparedness-act-for-
+    \verb medical-countermeasures
+    \endverb
+    \field{journaltitle}{Federal Register}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{MareksDisease}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=AFRea}{%
+         family={Andrew F.\bibnamedelima Read},
+         familyi={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AFRea1}
+    \strng{fullhash}{AFRea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{doi: 10.1371/journal.pbio.1002198}
+    \field{number}{7}
+    \field{title}{Imperfect Vaccination Can Enhance the Transmission of Highly
+  Virulent Pathogens}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516275/
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{PLOS Biology}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{unclean:Pork}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=BNea}{%
+         family={B.\bibnamedelima Nielson},
+         familyi={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={et\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNea1}
+    \strng{fullhash}{BNea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{513\bibrangedash 524}
+    \field{title}{Public health and pork and pork products: regional
+  perspectives of Denmark.}
+    \field{volume}{12}
+    \field{journaltitle}{Revue Scientifique et Technique (International Office
+  of Epizootics)}
+    \field{year}{1997}
+  \endentry
+
+  \entry{GeertVandenBosscheAbout}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=BGV}{%
+         family={Bossche},
+         familyi={B\bibinitperiod},
+         given={Geert\bibnamedelima Vanden},
+         giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGV1}
+    \strng{fullhash}{BGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Curriculum vitae}
+    \verb{url}
+    \verb https://uploads-ssl.webflow.com/616004c52e87ed08692f5692/616c6c54947a
+    \verb 5d46132186d0_geerte-vanden-bossche.pdf
+    \endverb
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{IvermectinClinicalTrials}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=BADTeaLT}{%
+         family={Bryant\bibnamedelima A},
+         familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+         suffix={Lawrie\bibnamedelima TA},
+         suffixi={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={Dowswell T et\bibnamedelima al.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BALTDTea1}
+    \strng{fullhash}{BALTDTea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{434\bibrangedash 460}
+    \field{title}{Ivermectin for Prevention and Treatment of COVID-19
+  Infection: A Systematic Review, Meta-analysis, and Trial Sequential Analysis
+  to Inform Clinical Guidelines}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8248252/
+    \endverb
+    \field{volume}{28}
+    \field{journaltitle}{American journal of therapeutics}
+    \field{annotation}{%
+    PMCID: PMC8248252%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{covid:spike}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=BTea}{%
+         family={Buzhdygan\bibnamedelima TP},
+         familyi={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTea1}
+    \strng{fullhash}{BTea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{doi: 10.1016/j.nbd.2020.105131.}
+    \field{title}{The SARS-CoV-2 spike protein alters barrier function in 2D
+  static and 3D microfluidic in-vitro models of the human blood-brain barrier.}
+    \field{journaltitle}{Neurobiol Dis.}
+    \field{annotation}{%
+    PMID: 33053430; PMCID: PMC7547916%
+    }
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{AntibodiesInCOVID19}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=BE}{%
+         family={B.V.},
+         familyi={B\bibinitperiod},
+         given={Elsevier},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE1}
+    \strng{fullhash}{BE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Autoantibodies in COVID-19: frequency and function}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.autrev.2021.102754
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{Autoimmunity Reviews}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ClothMasksBad}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=CRMea}{%
+         family={C\bibnamedelima Raina\bibnamedelima MacIntyre},
+         familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRMea1}
+    \strng{fullhash}{CRMea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{doi: 10.1136/bmjopen-2014-006577}
+    \field{number}{4}
+    \field{title}{A cluster randomised trial of cloth masks compared with
+  medical masks in healthcare workers}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/25903751/
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{BMJ Open}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{CDCMyocarditisAndPericarditis}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CDC},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Accessed December, 30, 2021}
+    \field{title}{Clinical Considerations: Myocarditis and Pericarditis after
+  Receipt of mRNA COVID-19 Vaccines Among Adolescents and Young Adults}
+    \verb{url}
+    \verb https://www.cdc.gov/vaccines/covid-19/clinical-considerations/myocard
+    \verb itis.html
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{CDCIfYouAreSick}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CDC},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{What to Do If You Are Sick}
+    \verb{url}
+    \verb https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-
+    \verb sick.html
+    \endverb
+    \field{journaltitle}{cdc.gov}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{VAERS}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=CF}{%
+         family={CDC},
+         familyi={C\bibinitperiod},
+         given={FDA},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CF1}
+    \strng{fullhash}{CF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{howpublished}{Online}
+    \field{title}{About VAERS}
+    \verb{url}
+    \verb https://vaers.hhs.gov/
+    \endverb
+  \endentry
+
+  \entry{PCRDiagnosticPanel}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=CNDoVDD}{%
+         family={CDC},
+         familyi={C\bibinitperiod},
+         suffix={DDID},
+         suffixi={D\bibinitperiod},
+         given={NCIRD Division of Viral\bibnamedelima Diseases},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  o\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDNDoVD1}
+    \strng{fullhash}{CDNDoVD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{3}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR
+  Diagnostic Panel}
+    \verb{url}
+    \verb https://www.fda.gov/media/134922/download
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{MasksInSurgury}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=CDZea}{%
+         family={Charlie Da\bibnamedelima Zhou},
+         familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  Z\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDZea1}
+    \strng{fullhash}{CDZea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{doi: 10.1177/0141076815583167}
+    \field{number}{6}
+    \field{pages}{223\bibrangedash 228}
+    \field{title}{Unmasking the surgeons: the evidence base behind the use of
+  facemasks in surgery}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480558/
+    \endverb
+    \field{volume}{108}
+    \field{journaltitle}{Journal Of the Royal Society Of Medicine}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{JohnHopkinsMap}{misc}{}{}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{howpublished}{Electronic Database}
+    \field{title}{COVID-19 Dashboard: by the Center for Systems Science and
+  Engineering (CSSE) at Johns Hopkins University (JHU)}
+    \verb{url}
+    \verb https://coronavirus.jhu.edu/map.html
+    \endverb
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{WonderDrug}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=CAÅS}{%
+         family={Crump\bibnamedelima A},
+         familyi={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={ÅŒmura\bibnamedelima S.},
+         giveni={Å\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAÅS1}
+    \strng{fullhash}{CAÅS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{doi: 10.2183/pjab.87.13}
+    \field{title}{Ivermectin, â€˜Wonder drugâ€™ from Japan: the human use
+  perspective}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043740/
+    \endverb
+    \field{journaltitle}{Proc Jpn Acad Ser B Phys Biol Sci.}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NEJMPregnancyVaccineCorrespondance}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=DMea}{%
+         family={Deanna\bibnamedelima McLeod},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DMea1}
+    \strng{fullhash}{DMea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Letter to Editor - Comment on `Preliminary Findings of mRNA
+  Covid-19 Vaccine Safety in Pregnant Persons', Shinabukuro et al. (NEWJM Apr
+  2021)}
+    \field{year}{2021}
+  \endentry
+
+  \entry{dicionary}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={Dictionary.com},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Dictionary.com, LLC}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Dictionary}
+    \field{year}{2021}
+  \endentry
+
+  \entry{HubbleMirrorFlaw}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=DB}{%
+         family={Dunbar},
+         familyi={D\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DB1}
+    \strng{fullhash}{DB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{howpublished}{Online Article}
+    \field{note}{https://www.nasa.gov/content/hubbles-mirror-flaw}
+    \field{title}{Hubble's Mirror Flaw}
+    \field{annotation}{%
+    National Aeronautics and Space Administration%
+    }
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{VAERSReportingSensitivity}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=ERMea}{%
+         family={Elaine R\bibnamedelima Miller},
+         familyi={E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ERMea1}
+    \strng{fullhash}{ERMea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{47}
+    \field{pages}{7458\bibrangedash 7463}
+    \field{title}{The reporting sensitivity of the Vaccine Adverse Event
+  Reporting System (VAERS) for anaphylaxis and for Guillain-BarrÃ© syndrome}
+    \verb{url}
+    \verb https://www.researchgate.net/publication/346140701_The_reporting_sens
+    \verb itivity_of_the_Vaccine_Adverse_Event_Reporting_System_VAERS_for_anaph
+    \verb ylaxis_and_for_Guillain-Barre_syndrome
+    \endverb
+    \field{volume}{38}
+    \field{journaltitle}{Vaccine}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{IEEELightbulbConspiracy}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=oEI}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Electrical},
+         familyi={E\bibinitperiod},
+         given={Institute},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Engineers},
+         familyi={E\bibinitperiod},
+         given={Electronics},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EIoEE1}
+    \strng{fullhash}{EIoEE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{doi: 10.1109/MSPEC.2014.6905492}
+    \field{number}{10}
+    \field{pages}{56 \bibrangedash  61}
+    \field{title}{The great lightbulb conspiracy}
+    \verb{url}
+    \verb https://spectrum.ieee.org/the-great-lightbulb-conspiracy
+    \endverb
+    \field{volume}{51}
+    \field{journaltitle}{IEEE Spectrum}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{unclean:Pork2}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=FSMR}{%
+         family={Farez\bibnamedelima S},
+         familyi={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Morley\bibnamedelima RS.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FSMR1}
+    \strng{fullhash}{FSMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{1}
+    \field{pages}{65\bibrangedash 78}
+    \field{title}{Potential animal health hazards of pork and pork products.}
+    \field{volume}{16}
+    \field{journaltitle}{Revue Scientifique et Technique (International Office
+  of Epizootics)}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{FDAApprovesVaccine}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FDA},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+  \field{note}{https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine}
+    \field{title}{FDA Approves First COVID-19 Vaccine}
+    \field{journaltitle}{FDA News Release}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{FDAApprovesCOVIDVaccine}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FDA},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{FDA Approves First COVID-19 Vaccine}
+    \verb{url}
+    \verb https://www.fda.gov/news-events/press-announcements/fda-approves-firs
+    \verb t-covid-19-vaccine
+    \endverb
+    \field{journaltitle}{FDA News Release}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{FDAEUALetter}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FDA},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{3}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Letter to Ms. Elisa Harkins of the FDA}
+    \verb{url}
+    \verb https://www.marinclinic.org/wp-content/uploads/2021/08/Pfizer-FDA-let
+    \verb ter-and-EUA-Fact-Sheet-for-Recipients-ENG.pdf
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PlannedObsolescenceasanEngineTechnologicalProgress}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=FA}{%
+         family={Fishman},
+         familyi={F\bibinitperiod},
+         given={Arthur},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Gandal},
+         familyi={G\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Shy},
+         familyi={S\bibinitperiod},
+         given={Oz},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{FAGNSO1}
+    \strng{fullhash}{FAGNSO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Critics of capitalism contend that many products are designed to have
+  uneconomically short lives, with the intention of forcing consumers to
+  repurchase too frequently. This phenomenon is commonly referred to as
+  "planned obsolescence". In this paper, we show that a competitive market may
+  generate too much durability in equilibrium. In particular, we show that
+  planned obsolescence may be a necessary condition for the achievement of
+  technological progress and that a pattern of rapidly deteriorating products
+  and fast innovation may be preferred to long-lasting products and slow
+  innovation.%
+    }
+    \field{issn}{00221821, 14676451}
+    \field{number}{4}
+    \field{pages}{361\bibrangedash 370}
+    \field{title}{Planned Obsolescence as an Engine of Technological Progress}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2950597
+    \endverb
+    \field{volume}{41}
+    \field{journaltitle}{The Journal of Industrial Economics}
+    \field{year}{1993}
+  \endentry
+
+  \entry{centennialLight}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=FLF}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={LP\bibnamedelima Firefighter},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FLF1}
+    \strng{fullhash}{FLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{howpublished}{website}
+    \field{note}{http://centennialbulb.org/}
+    \field{title}{Livermore, California's Centennial Light}
+    \field{year}{2021}
+  \endentry
+
+  \entry{VAERSReliability}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=jGRea}{%
+         prefix={john},
+         prefixi={j\bibinitperiod},
+         family={G.\bibnamedelima Rizk},
+         familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GReaj1}
+    \strng{fullhash}{GReaj1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{doi: 10.1016/j.vaccine.2021.08.006}
+    \field{number}{41}
+    \field{pages}{6017\bibrangedash 6018}
+    \field{title}{The next frontier in vaccine safety and VAERS: Lessons from
+  COVID-19 and ten recommendations for action}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/34400020/
+    \endverb
+    \field{volume}{39}
+    \field{journaltitle}{Vaccine}
+    \field{annotation}{%
+    PMCID: PMC8352656%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SARSvsSARS2}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=GARea}{%
+         family={Giovanni A.\bibnamedelima Rossi},
+         familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GARea1}
+    \strng{fullhash}{GARea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{https://doi.org/10.1007/s15010-020-01486-5}
+    \field{number}{5}
+    \field{pages}{665\bibrangedash 669}
+    \field{title}{Differences and similarities between SARSâ€‘CoV and
+  SARSâ€‘CoVâ€‘2: spike receptorâ€‘binding domain recognition and host cell
+  infection with support of cellular serine proteases}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7393809/
+    \endverb
+    \field{volume}{48}
+    \field{journaltitle}{Infection}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{HowToThinkLikeAMathematician}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Houston},
+         familyi={H\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{HK1}
+    \strng{fullhash}{HK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{How to Think Like a Mathematician: A Companion to
+  Undergraduate Mathematics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{RNAVaccinesAndPrionDisease}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=JBCM}{%
+         family={J.\bibnamedelima Bart\bibnamedelima Classen},
+         familyi={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+         given={MD},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JBCM1}
+    \strng{fullhash}{JBCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 3}
+    \field{title}{COVID-19 RNA Based Vaccines and the Risk of Prion Disease}
+    \verb{url}
+    \verb https://scivisionpub.com/pdfs/covid19-rna-based-vaccines-and-the-risk
+    \verb -of-prion-disease-1503.pdf
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Microbiology And Infectious Diseases}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{LiveBetterbyConsumingLess}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=JT}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JT1}
+    \strng{fullhash}{JT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{Massachusetts Institute of Technology and Yale University}
+    \field{number}{1-2}
+    \field{title}{Live Better by Consuming Less?}
+    \field{volume}{9}
+    \field{journaltitle}{State Of The Debate}
+    \field{year}{2005}
+  \endentry
+
+  \entry{CtNotContagious}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=JBea}{%
+         family={Jared\bibnamedelima Bullard},
+         familyi={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JBea1}
+    \strng{fullhash}{JBea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{doi: 10.1093/cid/ciaa638}
+    \field{number}{10}
+    \field{pages}{2663\bibrangedash 2666}
+    \field{title}{Predicting Infectious Severe Acute Respiratory Syndrome
+  Coronavirus 2 From Diagnostic Samples}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/32442256/
+    \endverb
+    \field{volume}{71}
+    \field{journaltitle}{Clin Infect Dis}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{MMWR}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=JBGea}{%
+         family={Jennifer B\bibnamedelima Griffin},
+         familyi={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JBGea1}
+    \strng{fullhash}{JBGea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{doi: 10.15585/mmwr.mm7034e5}
+    \field{number}{34}
+    \field{pages}{1170\bibrangedash 1176}
+    \field{title}{SARS-CoV-2 Infections and Hospitalizations Among Persons Aged
+  $\geq$16 Years, by Vaccination Status - Los Angeles County, California, May
+  1-July 25, 2021}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/34437525/
+    \endverb
+    \field{volume}{70}
+    \field{journaltitle}{MMWR - Morbidity and Mortality Weekly Report}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SenatorRonJonsonLetterToFDA}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=JUSR}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={U.S. Senator\bibnamedelima Ron},
+         giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JUSR1}
+    \strng{fullhash}{JUSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Letter To FDA Commissioner Janet Woodcock, M.D.}
+    \verb{url}
+    \verb https://www.ronjohnson.senate.gov/services/files/50503B93-EB6A-49C3-A
+    \verb DAA-4B93200D32D5
+    \endverb
+    \field{journaltitle}{U.S. Senate}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PfizerFraudulentMarketing}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=DoJOoPA}{%
+         prefix={Department\bibnamedelima of},
+         prefixi={D\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Justice},
+         familyi={J\bibinitperiod},
+         given={Office of Public\bibnamedelima Affairs},
+         giveni={O\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JOoPADo1}
+    \strng{fullhash}{JOoPADo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Justice Department Announces Largest Health Care Fraud
+  Settlement in Its History}
+    \verb{url}
+    \verb https://www.justice.gov/opa/pr/justice-department-announces-largest-h
+    \verb ealth-care-fraud-settlement-its-history
+    \endverb
+    \field{journaltitle}{Justice News}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{unclean:shellfish}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=KCY}{%
+         family={Kao},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima Y.},
+         giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KCY1}
+    \strng{fullhash}{KCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{Chapter 4}
+    \field{title}{Paralytic Shellfish Poisoning}
+    \field{journaltitle}{Algal toxins in seafood and drinking water}
+    \field{year}{1993}
+  \endentry
+
+  \entry{KhanMSIIvermectin}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=KMDCNPMMNHMSASKM}{%
+         family={Khan\bibnamedelima MSI},
+         familyi={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+         suffix={Khan\bibnamedelima MSI},
+         suffixi={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Debnath CR Nath PN Mahtab MA Nabeka H Matsuda S
+  Akbar\bibnamedelima SMF.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KMKMDCNPMMNHMSAS1}
+    \strng{fullhash}{KMKMDCNPMMNHMSAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{note}{doi: 10.1016/j.arbres.2020.08.007.}
+    \field{number}{12}
+    \field{pages}{828\bibrangedash 830}
+    \field{title}{Ivermectin Treatment May Improve the Prognosis of Patients
+  With COVID-19.}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/33293006/
+    \endverb
+    \field{volume}{56}
+    \field{journaltitle}{Arch Bronconeumol (Engl Ed).}
+    \field{annotation}{%
+    PMCID: PMC7837160.%
+    }
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{YellowCard}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=LDT}{%
+         family={Lawrie.},
+         familyi={L\bibinitperiod},
+         given={Dr.\bibnamedelima Tess},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LDT1}
+    \strng{fullhash}{LDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{Letter.}
+    \field{title}{Urgent preliminary report of Yellow Card data up to 26th May
+  2021}
+    \field{volume}{9}
+    \field{journaltitle}{Medicines and Healthcare Products Regulatory Agency.}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{VAERSElectronicSupport}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=LMMMGR}{%
+         family={Lazarus},
+         familyi={L\bibinitperiod},
+         suffix={Ross},
+         suffixi={R\bibinitperiod},
+         given={MBBS MPH MMed\bibnamedelima GDCompSci},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRMMMG1}
+    \strng{fullhash}{LRMMMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007 to 2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{Grant ID: R18 HS 017045}
+    \field{title}{Electronic Support for Public Healthâ€“Vaccine Adverse Event
+  Reporting System (ESP:VAERS)}
+    \verb{url}
+    \verb https://digital.ahrq.gov/ahrq-funded-projects/electronic-support-publ
+    \verb ic-health-vaccine-adverse-event-reporting-system
+    \endverb
+    \field{journaltitle}{Grant Final Report}
+    \field{year}{2007 to 2010}
+  \endentry
+
+  \entry{covid:spike2}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=LYSCeaZJ}{%
+         family={Lei\bibnamedelima Y},
+         familyi={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+         suffix={Zhang\bibnamedelima J},
+         suffixi={Z\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Schiavon CR et\bibnamedelima al.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LYZJSCea1}
+    \strng{fullhash}{LYZJSCea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{doi:10.1161/CIRCRESAHA.121.318902}
+    \field{number}{9}
+    \field{pages}{1323\bibrangedash 1326}
+    \field{title}{SARS-CoV-2 Spike Protein Impairs Endothelial Function via
+  Downregulation of ACE 2.}
+    \field{volume}{128}
+    \field{journaltitle}{Circ Res.}
+    \field{year}{2021}
+  \endentry
+
+  \entry{london1932}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=LB}{%
+         family={London},
+         familyi={L\bibinitperiod},
+         given={Bernard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LB1}
+    \strng{fullhash}{LB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1932}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{Self-published pamphlet}
+    \field{title}{Ending the Depression Through Planned Obsolescence}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1932}
+  \endentry
+
+  \entry{ConsumptionPlannedObsolescenceAndWaste}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=MN}{%
+         family={Maycroft},
+         familyi={M\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Lincoln}%
+    }
+    \strng{namehash}{MN1}
+    \strng{fullhash}{MN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Consumption, planned obsolescence and waste}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{VAERSHealthCareReporters}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=MS}{%
+         family={Mclachlan},
+         familyi={M\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OM}{%
+         family={Osman},
+         familyi={O\bibinitperiod},
+         given={Magda},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Dube},
+         familyi={D\bibinitperiod},
+         given={Kudakwashe},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Chiketero},
+         familyi={C\bibinitperiod},
+         given={Patience},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Choi},
+         familyi={C\bibinitperiod},
+         given={Yvonne},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Fenton},
+         familyi={F\bibinitperiod},
+         given={Norman},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MSOMDKCPCYFN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Preprint. doi: 10.13140/RG.2.2.26987.26402}
+    \field{title}{Analysis of COVID-19 vaccine death reports from the Vaccine
+  Adverse Events Reporting System (VAERS) Database Interim: Results and
+  Analysis}
+    \verb{url}
+    \verb https://www.researchgate.net/publication/352837543_Analysis_of_COVID-
+    \verb 19_vaccine_death_reports_from_the_Vaccine_Adverse_Events_Reporting_Sy
+    \verb stem_VAERS_Database_Interim_Results_and_Analysis
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{YellowCardScheme}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={MHRA},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{howpublished}{Online}
+    \field{title}{About Yellow Card}
+    \verb{url}
+    \verb https://yellowcard.mhra.gov.uk/
+    \endverb
+  \endentry
+
+  \entry{GlobalTrendsIvermectin}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=MYPJFMHHPP}{%
+         family={Morimasa\bibnamedelima Yagisawa},
+         familyi={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+         suffix={Ph.D},
+         suffixi={P\bibinitperiod},
+         given={Patrick J. Foster M.D Hideaki Hanaki\bibnamedelima Ph.D},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  F\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SÅP}{%
+         family={Satoshi\bibnamedelima ÅŒmura},
+         familyi={S\bibinitperiod\bibinitdelim Å\bibinitperiod},
+         given={Ph.D},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MYPPJFMHHPSÅP1}
+    \strng{fullhash}{MYPPJFMHHPSÅP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{44\bibrangedash 95}
+    \field{title}{Global trends in clinical studies of ivermectin in COVID-1}
+    \verb{url}
+    \verb https://pgibertie.files.wordpress.com/2021/03/74-1_44-95.pdf
+    \endverb
+    \field{volume}{74}
+    \field{journaltitle}{The Japenese Journal Of Antibiotics}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NecessityOfVaccination}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=NKSea}{%
+         family={Nabin K.\bibnamedelima Shrestha},
+         familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NKSea1}
+    \strng{fullhash}{NKSea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{Preprint. doi: https://doi.org/10.1101/2021.06.01.21258176}
+    \field{title}{Necessity of COVID-19 vaccination in previously infected
+  individuals}
+    \verb{url}
+    \verb https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v3
+    \endverb
+  \endentry
+
+  \entry{MaternalVaccinationImpacts}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=NAKea}{%
+         family={Niel A.\bibnamedelima Karrow},
+         familyi={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NAKea1}
+    \strng{fullhash}{NAKea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{11}
+    \field{pages}{1351}
+    \field{title}{Maternal COVID-19 Vaccination and Its Potential Impact on
+  Fetal and Neonatal Development}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8617890/
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{Vaccines (Basel)}
+    \field{annotation}{%
+    PMCID: PMC8617890%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NIHHydroxychloroquine}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={NIH},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Chloroquine or Hydroxychloroquine and/or Azithromycin}
+    \verb{url}
+    \verb https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-th
+    \verb erapy/chloroquine-or-hydroxychloroquine-and-or-azithromycin/
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NationalCancerInstituteSARS-CoV-2}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=NNCI}{%
+         family={NIH},
+         familyi={N\bibinitperiod},
+         given={National Cancer\bibnamedelima Institute},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NNCI1}
+    \strng{fullhash}{NNCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{howpublished}{Online Article}
+  \field{note}{https://www.cancer.gov/publications/dictionaries/cancer-terms/def/sars-cov-2}
+    \field{title}{SARS-CoV-2}
+    \field{annotation}{%
+    National Cancer Institute at the National Institutes of Health%
+    }
+  \endentry
+
+  \entry{OSHAFAQ}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={OSHA},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{howpublished}{Online}
+    \field{note}{United States Department of Labor, accessed Dec. 12, 2021}
+    \field{title}{Frequently Asked Questions}
+    \verb{url}
+    \verb https://www.osha.gov/coronavirus/faqs#vaccine
+    \endverb
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SurgicalMasksInOR}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=OOCAfD}{%
+         family={Ottawa\bibnamedelima (ON)},
+         familyi={O\bibinitperiod\bibinitdelim O\bibinitperiod},
+         given={Canadian Agency for\bibnamedelima Drugs},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  f\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=iHT}{%
+         prefix={in},
+         prefixi={i\bibinitperiod},
+         family={Health},
+         familyi={H\bibinitperiod},
+         given={Technologies},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OOCAfDHTi1}
+    \strng{fullhash}{OOCAfDHTi1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Use of Surgical Masks in the Operating Room: A Review of the
+  Clinical Effectiveness and Guidelines}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/24741720/
+    \endverb
+    \field{journaltitle}{CADTH Rapid Response Reports.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SARSvsSARS}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=PRMDEO}{%
+         family={P.\bibnamedelima Rat},
+         familyi={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+         suffix={E.\bibnamedelima Olivier},
+         suffixi={E\bibinitperiod\bibinitdelim O\bibinitperiod},
+         given={M.\bibnamedelima Dutot},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PREOMD1}
+    \strng{fullhash}{PREOMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{SARS-CoV-2 vs. SARS-CoV-1 management: antibiotics and
+  inflammasome modulators potential}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/32744716/
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{European Review for Medical and Pharmacological
+  Sciences}
+    \field{year}{2020}
+  \endentry
+
+  \entry{mRNAPharmacokineticsOrganDistribution}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Pfizer},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{SARS-CoV-2 mRNA Vaccine (BNT162, PF-07302048)}
+    \verb{url}
+    \verb https://www.pmda.go.jp/drugs/2021/P20210212001/672212000_30300AMX0023
+    \verb 1_I100_1.pdf
+    \endverb
+  \endentry
+
+  \entry{ComirnatyFactSheet}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Pfizer},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+  \field{note}{https://health.utahcounty.gov/wp-content/uploads/sites/49/2021/11/PFIZER-.pdf}
+    \field{title}{VACCINE INFORMATION FACT SHEET FOR RECIPIENTS AND CAREGIVERS
+  ABOUT COMIRNATY (COVID-19 VACCINE, mRNA) AND PFIZER-BIONTECH COVID-19 VACCINE
+  TO PREVENT CORONAVIRUS DISEASE 2019 (COVID-19)}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PfizerFactSheet}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Pfizer},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{VACCINE INFORMATION FACT SHEET FOR RECIPIENTS AND CAREGIVERS
+  ABOUT COMIRNATY (COVID-19 VACCINE, mRNA) AND THE PFIZER-BIONTECH COVID-19
+  VACCINE TO PREVENT CORONAVIRUS DISEASE 2019 (COVID-19)}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ReviewOfEmergingEfficacyOfIvermectin}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=PKea}{%
+         family={Pierre\bibnamedelima Kory},
+         familyi={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={et\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKea1}
+    \strng{fullhash}{PKea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{doi: 10.1097/MJT.0000000000001377}
+    \field{number}{3}
+    \field{pages}{299\bibrangedash 318}
+    \field{title}{Review of the Emerging Evidence Demonstrating the Efficacy of
+  Ivermectin in the Prophylaxis and Treatment of COVID-19}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8088823/
+    \endverb
+    \field{volume}{28}
+    \field{journaltitle}{American Journal Of Therapeutics}
+    \field{annotation}{%
+    PMCID: PMC8088823%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PubChemIvermectin}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={PubChem},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Accessed Sept. 3 2021}
+    \field{title}{Ivermectin}
+    \verb{url}
+    \verb https://pubchem.ncbi.nlm.nih.gov/compound/ivermectin
+    \endverb
+    \field{journaltitle}{National Library Of Medicine}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PCRCtValues}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=RSSDP}{%
+         family={Richard S.\bibnamedelima Steece},
+         familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         suffix={PhD.},
+         suffixi={P\bibinitperiod},
+         given={D(ABMM)},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSSPD1}
+    \strng{fullhash}{RSSPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Information on Cycle threshold (Ct) values for SARS-CoV-2}
+    \verb{url}
+    \verb https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-corona
+    \verb virus/Ct_Fact_Sheet.pdf
+    \endverb
+    \field{journaltitle}{Tennessee Department of Health - Dicision of
+  Laboratory Services}
+  \endentry
+
+  \entry{PCRvsCellCultures}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=RJea}{%
+         family={Rita\bibnamedelima Jaafar},
+         familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJea1}
+    \strng{fullhash}{RJea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{doi: 10.1093/cid/ciab531}
+    \field{number}{9}
+    \field{pages}{1745}
+    \field{title}{Corrigendum to: Correlation Between 3790 Quantitative
+  Polymerase Chain Reaction-Positives Samples and Positive Cell Cultures,
+  Including 1941 Severe Acute Respiratory Syndrome Coronavirus 2 Isolates}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/34586376/
+    \endverb
+    \field{volume}{73}
+    \field{journaltitle}{Clin Infect Dis}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NPRIvermectinBashing}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=RV}{%
+         family={Romo},
+         familyi={R\bibinitperiod},
+         given={Vanessa},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RV1}
+    \strng{fullhash}{RV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{12\bibrangedash 28}
+    \field{title}{Joe Rogan Says He Has COVID-19 And Has Taken The Drug
+  Ivermectin}
+    \verb{url}
+    \verb https://www.npr.org/2021/09/01/1033485152/joe-rogan-covid-ivermectin
+    \endverb
+    \field{volume}{87}
+    \field{journaltitle}{NPR}
+    \field{annotation}{%
+    PMCID: PMC3043740%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PrionDiseasesInVAERS}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Rose},
+         familyi={R\bibinitperiod},
+         given={Jessica},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{Publish on Substack}
+    \field{title}{Prion Diseases Are No Joke}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{WorseThanTheDisease}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=SS}{%
+         family={Seneff},
+         familyi={S\bibinitperiod},
+         given={Stephanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Nigh},
+         familyi={N\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SSNG1}
+    \strng{fullhash}{SSNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Worse Than The Disease? Reviewing Some Possible Unintended
+  Consequences Of The mRNA Vaccines Against COVID-19}
+    \verb{url}
+    \verb https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetin
+    \verb gs/2021/SENEFF~1.PDF
+    \endverb
+    \field{journaltitle}{International Journal Of Vaccine Theory, Practice, And
+  Research}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ADESpikeProtein}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SFWea}{%
+         family={Sheng-Fan\bibnamedelima Wang},
+         familyi={S\bibinithyphendelim F\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFWea1}
+    \strng{fullhash}{SFWea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{doi: 10.1016/j.bbrc.2014.07.090}
+    \field{number}{2}
+    \field{title}{Antibody-dependent SARS coronavirus infection is mediated by
+  antibodies against spike proteins}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/25073113/
+    \endverb
+    \field{volume}{451}
+    \field{journaltitle}{Biochem Biophys Res Commun}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NACEvidenceReview}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=SZ}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Zhongcheng},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=PCA}{%
+         family={Puyo},
+         familyi={P\bibinitperiod},
+         given={Carlos\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SZPCA1}
+    \strng{fullhash}{SZPCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{1047\bibrangedash 1055}
+    \field{title}{N-Acetylcysteine to Combat COVID-19: An Evidence Review}
+    \field{journaltitle}{Therapeutics and Clinical Risk Management}
+    \field{year}{2020}
+  \endentry
+
+  \entry{NaturalImmunityIsrael}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SGea}{%
+         family={Sivan\bibnamedelima Gazit},
+         familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGea1}
+    \strng{fullhash}{SGea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{doi: https://doi.org/10.1101/2021.08.24.21262415}
+    \field{title}{Comparing SARS-CoV-2 natural immunity to vaccine-induced
+  immunity: reinfections versus breakthrough infections}
+    \verb{url}
+    \verb https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1
+    \endverb
+    \field{journaltitle}{MedRxiv}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{covid:natural}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SGMMea}{%
+         family={Sivan\bibnamedelima Gazit},
+         familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={MD\bibnamedelima MA. et.\bibnamedelima al.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGMMea1}
+    \strng{fullhash}{SGMMea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Preprint. https://doi.org/10.1101/2021.08.24.21262415}
+    \field{title}{Comparing SARS-CoV-2 natural immunity to vaccine-induced
+  immunity: reinfections versus breakthrough infections.}
+    \field{volume}{25}
+    \field{journaltitle}{medRxiv}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Strausz2008Collusion}{report}{}{}
+    \name{author}{2}{}{%
+      {{hash=SR}{%
+         family={Strausz},
+         familyi={S\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sasaki},
+         familyi={S\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \list{publisher}{2}{%
+      {Sonderforschungsbereich/Transregio 15 - Governance}%
+      {the Efficiency of Economic Systems (GESY)}%
+    }
+    \keyw{L15; 330; cartels; collusion; durability}
+    \strng{namehash}{SRSD1}
+    \strng{fullhash}{SRSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    We develop a model to show that cartels that produce goods with lower
+  durability are easier to sustain implicitly. This observation gen- erates the
+  following results: 1) implicit cartels have an incentive to pro- duce goods
+  with an inefficiently low level of durability; 2) a monopoly or explicit
+  cartel is welfare superior to an implicit cartel; 3) welfare is non-monotonic
+  in the number of firms; 4) a regulator may demand inefficiently high levels
+  of durability to prevent collusion.%
+    }
+    \verb{doi}
+    \verb 10.5282/ubm/epub.13306
+    \endverb
+    \field{note}{urn:nbn:de:bvb:19-epub-13306-9}
+    \field{number}{246}
+    \field{title}{Collusion and Durability}
+    \verb{url}
+    \verb http://hdl.handle.net/10419/94128
+    \endverb
+    \list{location}{1}{%
+      {M\"{u}nchen}%
+    }
+    \field{type}{SFB/TR 15 Discussion Paper}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Strongs}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Strong},
+         familyi={S\bibinitperiod},
+         given={James.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Updated ed. Peabody, MA: Hendrickson Publishers}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Strong's Exhaustive Concordance of the Bible.}
+    \field{year}{2007}
+  \endentry
+
+  \entry{SucharitEvidenceOfCausitiveEffects}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SBABMM}{%
+         family={Sucharit\bibnamedelima Bhakdi},
+         familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+         suffix={MD},
+         suffixi={M\bibinitperiod},
+         given={Arne Burkhardt\bibnamedelima MD},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBMABM1}
+    \strng{fullhash}{SBMABM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{This text is a written summary of Dr. Bhakdiâ€™s and Dr.
+  Burkhardtâ€™s presentations at the Doctors for COVID Ethics symposium}
+    \field{title}{On COVID vaccines: why they cannot work, and irrefutable
+  evidence of their causative role in deaths after vaccination}
+    \field{journaltitle}{UKColumn}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SpikeBBBFunction}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TPBea}{%
+         family={Tetyana P.\bibnamedelima Buzhdygan},
+         familyi={T\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TPBea1}
+    \strng{fullhash}{TPBea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{doi: 10.1016/j.nbd.2020.105131}
+    \field{title}{The SARS-CoV-2 spike protein alters barrier function in 2D
+  static and 3D microfluidic in-vitro models of the human bloodâ€“brain
+  barrier}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7547916/
+    \endverb
+    \field{journaltitle}{Elsevier Public Health Emergency Collection}
+    \field{annotation}{%
+    PMCID: PMC7547916%
+    }
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SARSPrionLikeDomains}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TVGT}{%
+         family={Tetz},
+         familyi={T\bibinitperiod},
+         suffix={G.;\bibnamedelima Tetz},
+         suffixi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGTV1}
+    \strng{fullhash}{TGTV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{Preprint}
+    \field{title}{SARS-CoV-2 Prion-Like Domains in Spike Proteins Enable Higher
+  Affinity to ACE2}
+    \verb{url}
+    \verb doi: 10.20944/preprints202003.0422.v1
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NEJMPregnancyVaccine}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TTSea}{%
+         family={Tom T\bibnamedelima Shimabukuro},
+         familyi={T\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TTSea1}
+    \strng{fullhash}{TTSea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{24}
+    \field{pages}{2273\bibrangedash 2282}
+    \field{title}{Preliminary Findings of mRNA Covid-19 Vaccine Safety in
+  Pregnant Persons}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/33882218/
+    \endverb
+    \field{volume}{384}
+    \field{journaltitle}{New England Journal of Medicine}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{LightingTechnology}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TS}{%
+         family={Tonzani},
+         familyi={T\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TS1}
+    \strng{fullhash}{TS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{https://doi.org/10.1038/459312a}
+    \field{number}{459}
+    \field{pages}{312\bibrangedash 314}
+    \field{title}{Lighting technology: Time to change the bulb}
+    \field{journaltitle}{Nature}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{UCG:fundamentalBeliefs}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={UCG},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{UCG Fundamental Beliefs}
+    \verb{url}
+    \verb https://www.ucg.org/fundamental-beliefs-of-the-united-church-of-god
+    \endverb
+  \endentry
+
+  \entry{HerpesFollowingVaccine}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=VFea}{%
+         family={Victoria\bibnamedelima Furer},
+         familyi={V\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VFea1}
+    \strng{fullhash}{VFea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{doi: 10.1093/rheumatology/keab345}
+    \field{title}{Herpes zoster following BNT162b2 mRNA Covid-19 vaccination in
+  patients with autoimmune inflammatory rheumatic diseases: a case series}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083327/
+    \endverb
+    \field{journaltitle}{Rheumatology (Oxford)}
+    \field{annotation}{%
+    PMCID: PMC8083327%
+    }
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NACVariousUses}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=VMeaM}{%
+         family={Vida\bibnamedelima Mokhtari},
+         familyi={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+         suffix={M.Sc.},
+         suffixi={M\bibinitperiod},
+         given={et\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VMMea1}
+    \strng{fullhash}{VMMea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{1}
+    \field{pages}{11â€“17}
+    \field{title}{A Review on Various Uses of N-Acetyl Cysteine}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241507/
+    \endverb
+    \field{volume}{19}
+    \field{journaltitle}{Cell Journal}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SpikeProteinDownregulation}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=YLea}{%
+         family={Yuyang\bibnamedelima Lei},
+         familyi={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={et.\bibnamedelima al.},
+         giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YLea1}
+    \strng{fullhash}{YLea1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{note}{Preprint. doi: 10.1101/2020.12.04.409144.}
+    \field{title}{SARS-CoV-2 Spike Protein Impairs Endothelial Function via
+  Downregulation of ACE2}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/33300001/
+    \endverb
+    \field{journaltitle}{BioRxiv}
+    \field{annotation}{%
+    PMCID: PMC7724674%
+    }
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

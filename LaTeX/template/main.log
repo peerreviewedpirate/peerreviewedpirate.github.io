@@ -1,285 +1,299 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.11.14)  16 NOV 2021 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2023.8.22)  10 APR 2025 09:09
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./main.tex
 (main.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
-File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-11>
+(/usr/local/share/miktex-texmf/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@chapter=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
 (../resources/structure.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/01/26 3.53 The Babel package
+(/usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+Package: babel 2023/07/15 v3.92 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language1
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/01/26 3.53 Babel common definitions
-\babel@savecnt=\count188
-\U@D=\dimen139
-\l@babelnohyphens=\language79
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
-)
+(/usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-)
-\bbl@dirlevel=\count189
+\bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(/usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\englis
-h.ldf
+(/usr/local/share/miktex-texmf/tex/latex/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 108.
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/sttools\flushend.sty
+(/usr/local/share/miktex-texmf/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/local/share/miktex-texmf/tex/latex/sttools/flushend.sty
 Package: flushend 2021/10/04 v4.0 Balancing columns in twocolumn mode
-\flushend@@lastskip@a=\skip49
-\flushend@@lastskip@b=\skip50
-\flushend@@lastnode=\count190
-\var@@loop@iter=\count191
-\var@@temp@spread=\dimen140
-\var@@temp@a=\dimen141
-\var@@temp@loop=\dimen142
-\flushend@@page@rule=\dimen143
-\flushend@@varbox@lastpage=\box47
-\flushend@@varbox@a=\box48
-\flushend@@varbox@c=\box49
-\flushend@@tempbox@a=\box50
-\flushend@@tempbox@c=\box51
-\flushend@@floatbox=\box52
-\@viper=\box53
-\hold@viper=\box54
-\atColsBreak=\toks15
-\atColsEnd=\toks16
-\oldbreak@skip=\dimen144
+\flushend@@lastskip@a=\skip50
+\flushend@@lastskip@b=\skip51
+\flushend@@lastnode=\count196
+\var@@loop@iter=\count197
+\var@@temp@spread=\dimen142
+\var@@temp@a=\dimen143
+\var@@temp@loop=\dimen144
+\flushend@@page@rule=\dimen145
+\flushend@@varbox@lastpage=\box51
+\flushend@@varbox@a=\box52
+\flushend@@varbox@c=\box53
+\flushend@@tempbox@a=\box54
+\flushend@@tempbox@c=\box55
+\flushend@@floatbox=\box56
+\@viper=\box57
+\hold@viper=\box58
+\atColsBreak=\toks17
+\atColsEnd=\toks18
+\oldbreak@skip=\dimen146
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
-sty
-Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+(/usr/local/share/miktex-texmf/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+(/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
 )
-\MT@toks=\toks18
-\MT@count=\count192
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen145
-LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
-\MT@listname@count=\count193
+(/usr/local/share/miktex-texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+\MT@toks=\toks20
+\MT@tempbox=\box59
+\MT@count=\count199
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen147
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count266
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-
-pdftex.def
-File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+(/usr/local/share/miktex-texmf/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip51
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
-cfg
-File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+(/usr/local/share/miktex-texmf/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
-\@mathmargin=\skip52
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen146
-)) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
-y
+\@emptytoks=\toks22
+\ex@=\dimen148
+))
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen147
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+\pmbraise@=\dimen149
 )
-\inf@bad=\count194
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count267
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count195
-\leftroot@=\count196
+\uproot@=\count268
+\leftroot@=\count269
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count197
-\DOTSCASE@=\count198
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count270
+\DOTSCASE@=\count271
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box55
-\strutbox@=\box56
-\big@size=\dimen148
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count199
-\c@MaxMatrixCols=\count266
+\macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count273
 \dotsspace@=\muskip16
-\c@parentequation=\count267
-\dspbrk@lvl=\count268
-\tag@help=\toks20
-\row@=\count269
-\column@=\count270
-\maxfields@=\count271
-\andhelp@=\toks21
-\eqnshift@=\dimen149
-\alignsep@=\dimen150
-\tagshift@=\dimen151
-\tagwidth@=\dimen152
-\totwidth@=\dimen153
-\lineht@=\dimen154
-\@envbody=\toks22
-\multlinegap=\skip53
-\multlinetaggap=\skip54
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks23
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks24
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks25
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
-y
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+)
+(/home/awtorode/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
-\thm@preskip=\skip55
-\thm@postskip=\skip56
-\thm@headsep=\skip57
-\dth@everypar=\toks29
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks32
+)
+(/usr/local/share/miktex-texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
-fg
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
-def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(/usr/local/share/miktex-texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+(/usr/local/share/miktex-texmf/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
-File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+(/usr/local/share/miktex-texmf/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(/home/awtorode/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen155
-\captionmargin@=\dimen156
-\captionwidth=\dimen157
-\caption@tempdima=\dimen158
-\caption@indent=\dimen159
-\caption@parindent=\dimen160
-\caption@hangindent=\dimen161
+(/home/awtorode/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count272
-\c@continuedfloat=\count273
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
-y
+(/usr/local/share/miktex-texmf/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen162
-\lightrulewidth=\dimen163
-\cmidrulewidth=\dimen164
-\belowrulesep=\dimen165
-\belowbottomsep=\dimen166
-\aboverulesep=\dimen167
-\abovetopsep=\dimen168
-\cmidrulesep=\dimen169
-\cmidrulekern=\dimen170
-\defaultaddspace=\dimen171
-\@cmidla=\count274
-\@cmidlb=\count275
-\@aboverulesep=\dimen172
-\@belowrulesep=\dimen173
-\@thisruleclass=\count276
-\@lastruleclass=\count277
-\@thisrulewidth=\dimen174
+\heavyrulewidth=\dimen165
+\lightrulewidth=\dimen166
+\cmidrulewidth=\dimen167
+\belowrulesep=\dimen168
+\belowbottomsep=\dimen169
+\aboverulesep=\dimen170
+\abovetopsep=\dimen171
+\cmidrulesep=\dimen172
+\cmidrulekern=\dimen173
+\defaultaddspace=\dimen174
+\@cmidla=\count281
+\@cmidlb=\count282
+\@aboverulesep=\dimen175
+\@belowrulesep=\dimen176
+\@thisruleclass=\count283
+\@lastruleclass=\count284
+\@thisrulewidth=\dimen177
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.st
-y
-Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
-y
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/share/miktex-texmf/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/07/24 v2.0c lastpage: 2.09 or 2e? (HMM)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
-y
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(/usr/local/share/miktex-texmf/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/07/24 v2.0c Decide which 2e lastpage version to use (H
+MM)
+
+(/usr/local/share/miktex-texmf/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-07-24 v2.0c Refers to last page's name (HMM; JPG)
+) 
+)) (/usr/local/share/miktex-texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
-s.cfg
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen175
-\Gin@req@width=\dimen176
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
-y
+(/usr/local/share/miktex-texmf/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip58
-\enit@outerparindent=\dimen177
-\enit@toks=\toks30
-\enit@inbox=\box57
-\enit@count@id=\count278
-\enitdp@description=\count279
+\labelindent=\skip59
+\enit@outerparindent=\dimen180
+\enit@toks=\toks33
+\enit@inbox=\box62
+\enit@count@id=\count285
+\enitdp@description=\count286
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+(/usr/local/share/miktex-texmf/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 
@@ -291,413 +305,80 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
+) (/home/awtorode/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(/usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\Gm@cnth=\count280
-\Gm@cntv=\count281
-\c@Gm@tempcnt=\count282
-\Gm@bindingoffset=\dimen178
-\Gm@wd@mp=\dimen179
-\Gm@odd@mp=\dimen180
-\Gm@even@mp=\dimen181
-\Gm@layoutwidth=\dimen182
-\Gm@layoutheight=\dimen183
-\Gm@layouthoffset=\dimen184
-\Gm@layoutvoffset=\dimen185
-\Gm@dimlist=\toks31
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
-g)) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks32
-\inpenc@posthook=\toks33
+(/usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen181
+\Gm@wd@mp=\dimen182
+\Gm@odd@mp=\dimen183
+\Gm@even@mp=\dimen184
+\Gm@layoutwidth=\dimen185
+\Gm@layoutheight=\dimen186
+\Gm@layouthoffset=\dimen187
+\Gm@layoutvoffset=\dimen188
+\Gm@dimlist=\toks34
+
+(/home/awtorode/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\XCharter.st
-y
-Package: XCharter 2021/09/01 v1.222
+(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks35
+\inpenc@posthook=\toks36
+)
+(/usr/local/share/miktex-texmf/tex/latex/xcharter/XCharter.sty
+Package: XCharter 2023/07/21 v1.25
 
-`XCharter' v1.222, 2021/09/01 Text macros for XCharter, an extension of Charter
- (msharpe)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+`XCharter' v1.25, 2023/07/21 Text macros for XCharter, an extension of Charter 
+(msharpe) (/usr/local/share/miktex-texmf/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
-File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
-Now handling font encoding T2A ...
-... processing UTF-8 mapping file for font encoding T2A
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
-File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+0400 (decimal 1024)
-   defining Unicode char U+0401 (decimal 1025)
-   defining Unicode char U+0402 (decimal 1026)
-   defining Unicode char U+0403 (decimal 1027)
-   defining Unicode char U+0404 (decimal 1028)
-   defining Unicode char U+0405 (decimal 1029)
-   defining Unicode char U+0406 (decimal 1030)
-   defining Unicode char U+0407 (decimal 1031)
-   defining Unicode char U+0408 (decimal 1032)
-   defining Unicode char U+0409 (decimal 1033)
-   defining Unicode char U+040A (decimal 1034)
-   defining Unicode char U+040B (decimal 1035)
-   defining Unicode char U+040C (decimal 1036)
-   defining Unicode char U+040D (decimal 1037)
-   defining Unicode char U+040E (decimal 1038)
-   defining Unicode char U+040F (decimal 1039)
-   defining Unicode char U+0410 (decimal 1040)
-   defining Unicode char U+0411 (decimal 1041)
-   defining Unicode char U+0412 (decimal 1042)
-   defining Unicode char U+0413 (decimal 1043)
-   defining Unicode char U+0414 (decimal 1044)
-   defining Unicode char U+0415 (decimal 1045)
-   defining Unicode char U+0416 (decimal 1046)
-   defining Unicode char U+0417 (decimal 1047)
-   defining Unicode char U+0418 (decimal 1048)
-   defining Unicode char U+0419 (decimal 1049)
-   defining Unicode char U+041A (decimal 1050)
-   defining Unicode char U+041B (decimal 1051)
-   defining Unicode char U+041C (decimal 1052)
-   defining Unicode char U+041D (decimal 1053)
-   defining Unicode char U+041E (decimal 1054)
-   defining Unicode char U+041F (decimal 1055)
-   defining Unicode char U+0420 (decimal 1056)
-   defining Unicode char U+0421 (decimal 1057)
-   defining Unicode char U+0422 (decimal 1058)
-   defining Unicode char U+0423 (decimal 1059)
-   defining Unicode char U+0424 (decimal 1060)
-   defining Unicode char U+0425 (decimal 1061)
-   defining Unicode char U+0426 (decimal 1062)
-   defining Unicode char U+0427 (decimal 1063)
-   defining Unicode char U+0428 (decimal 1064)
-   defining Unicode char U+0429 (decimal 1065)
-   defining Unicode char U+042A (decimal 1066)
-   defining Unicode char U+042B (decimal 1067)
-   defining Unicode char U+042C (decimal 1068)
-   defining Unicode char U+042D (decimal 1069)
-   defining Unicode char U+042E (decimal 1070)
-   defining Unicode char U+042F (decimal 1071)
-   defining Unicode char U+0430 (decimal 1072)
-   defining Unicode char U+0431 (decimal 1073)
-   defining Unicode char U+0432 (decimal 1074)
-   defining Unicode char U+0433 (decimal 1075)
-   defining Unicode char U+0434 (decimal 1076)
-   defining Unicode char U+0435 (decimal 1077)
-   defining Unicode char U+0436 (decimal 1078)
-   defining Unicode char U+0437 (decimal 1079)
-   defining Unicode char U+0438 (decimal 1080)
-   defining Unicode char U+0439 (decimal 1081)
-   defining Unicode char U+043A (decimal 1082)
-   defining Unicode char U+043B (decimal 1083)
-   defining Unicode char U+043C (decimal 1084)
-   defining Unicode char U+043D (decimal 1085)
-   defining Unicode char U+043E (decimal 1086)
-   defining Unicode char U+043F (decimal 1087)
-   defining Unicode char U+0440 (decimal 1088)
-   defining Unicode char U+0441 (decimal 1089)
-   defining Unicode char U+0442 (decimal 1090)
-   defining Unicode char U+0443 (decimal 1091)
-   defining Unicode char U+0444 (decimal 1092)
-   defining Unicode char U+0445 (decimal 1093)
-   defining Unicode char U+0446 (decimal 1094)
-   defining Unicode char U+0447 (decimal 1095)
-   defining Unicode char U+0448 (decimal 1096)
-   defining Unicode char U+0449 (decimal 1097)
-   defining Unicode char U+044A (decimal 1098)
-   defining Unicode char U+044B (decimal 1099)
-   defining Unicode char U+044C (decimal 1100)
-   defining Unicode char U+044D (decimal 1101)
-   defining Unicode char U+044E (decimal 1102)
-   defining Unicode char U+044F (decimal 1103)
-   defining Unicode char U+0450 (decimal 1104)
-   defining Unicode char U+0451 (decimal 1105)
-   defining Unicode char U+0452 (decimal 1106)
-   defining Unicode char U+0453 (decimal 1107)
-   defining Unicode char U+0454 (decimal 1108)
-   defining Unicode char U+0455 (decimal 1109)
-   defining Unicode char U+0456 (decimal 1110)
-   defining Unicode char U+0457 (decimal 1111)
-   defining Unicode char U+0458 (decimal 1112)
-   defining Unicode char U+0459 (decimal 1113)
-   defining Unicode char U+045A (decimal 1114)
-   defining Unicode char U+045B (decimal 1115)
-   defining Unicode char U+045C (decimal 1116)
-   defining Unicode char U+045D (decimal 1117)
-   defining Unicode char U+045E (decimal 1118)
-   defining Unicode char U+045F (decimal 1119)
-   defining Unicode char U+0490 (decimal 1168)
-   defining Unicode char U+0491 (decimal 1169)
-   defining Unicode char U+0492 (decimal 1170)
-   defining Unicode char U+0493 (decimal 1171)
-   defining Unicode char U+0496 (decimal 1174)
-   defining Unicode char U+0497 (decimal 1175)
-   defining Unicode char U+0498 (decimal 1176)
-   defining Unicode char U+0499 (decimal 1177)
-   defining Unicode char U+049A (decimal 1178)
-   defining Unicode char U+049B (decimal 1179)
-   defining Unicode char U+049C (decimal 1180)
-   defining Unicode char U+049D (decimal 1181)
-   defining Unicode char U+04A0 (decimal 1184)
-   defining Unicode char U+04A1 (decimal 1185)
-   defining Unicode char U+04A2 (decimal 1186)
-   defining Unicode char U+04A3 (decimal 1187)
-   defining Unicode char U+04A4 (decimal 1188)
-   defining Unicode char U+04A5 (decimal 1189)
-   defining Unicode char U+04AA (decimal 1194)
-   defining Unicode char U+04AB (decimal 1195)
-   defining Unicode char U+04AE (decimal 1198)
-   defining Unicode char U+04AF (decimal 1199)
-   defining Unicode char U+04B0 (decimal 1200)
-   defining Unicode char U+04B1 (decimal 1201)
-   defining Unicode char U+04B2 (decimal 1202)
-   defining Unicode char U+04B3 (decimal 1203)
-   defining Unicode char U+04B6 (decimal 1206)
-   defining Unicode char U+04B7 (decimal 1207)
-   defining Unicode char U+04B8 (decimal 1208)
-   defining Unicode char U+04B9 (decimal 1209)
-   defining Unicode char U+04BA (decimal 1210)
-   defining Unicode char U+04BB (decimal 1211)
-   defining Unicode char U+04C0 (decimal 1216)
-   defining Unicode char U+04C1 (decimal 1217)
-   defining Unicode char U+04C2 (decimal 1218)
-   defining Unicode char U+04D0 (decimal 1232)
-   defining Unicode char U+04D1 (decimal 1233)
-   defining Unicode char U+04D2 (decimal 1234)
-   defining Unicode char U+04D3 (decimal 1235)
-   defining Unicode char U+04D4 (decimal 1236)
-   defining Unicode char U+04D5 (decimal 1237)
-   defining Unicode char U+04D6 (decimal 1238)
-   defining Unicode char U+04D7 (decimal 1239)
-   defining Unicode char U+04D8 (decimal 1240)
-   defining Unicode char U+04D9 (decimal 1241)
-   defining Unicode char U+04DA (decimal 1242)
-   defining Unicode char U+04DB (decimal 1243)
-   defining Unicode char U+04DC (decimal 1244)
-   defining Unicode char U+04DD (decimal 1245)
-   defining Unicode char U+04DE (decimal 1246)
-   defining Unicode char U+04DF (decimal 1247)
-   defining Unicode char U+04E2 (decimal 1250)
-   defining Unicode char U+04E3 (decimal 1251)
-   defining Unicode char U+04E4 (decimal 1252)
-   defining Unicode char U+04E5 (decimal 1253)
-   defining Unicode char U+04E6 (decimal 1254)
-   defining Unicode char U+04E7 (decimal 1255)
-   defining Unicode char U+04E8 (decimal 1256)
-   defining Unicode char U+04E9 (decimal 1257)
-   defining Unicode char U+04EC (decimal 1260)
-   defining Unicode char U+04ED (decimal 1261)
-   defining Unicode char U+04EE (decimal 1262)
-   defining Unicode char U+04EF (decimal 1263)
-   defining Unicode char U+04F0 (decimal 1264)
-   defining Unicode char U+04F1 (decimal 1265)
-   defining Unicode char U+04F2 (decimal 1266)
-   defining Unicode char U+04F3 (decimal 1267)
-   defining Unicode char U+04F4 (decimal 1268)
-   defining Unicode char U+04F5 (decimal 1269)
-   defining Unicode char U+04F8 (decimal 1272)
-   defining Unicode char U+04F9 (decimal 1273)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
+(/usr/local/share/miktex-texmf/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/share/miktex-texmf/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count290
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
-File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
-Now handling font encoding LY1 ...
-... processing UTF-8 mapping file for font encoding LY1
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
-File: ly1enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A2 (decimal 162)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A5 (decimal 165)
-   defining Unicode char U+00A6 (decimal 166)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00B0 (decimal 176)
-   defining Unicode char U+00B5 (decimal 181)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BC (decimal 188)
-   defining Unicode char U+00BD (decimal 189)
-   defining Unicode char U+00BE (decimal 190)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+0192 (decimal 402)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
-)))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+(/usr/local/share/miktex-texmf/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.st
-y)
-LaTeX Font Info:    Setting XCharter-LF sub-encoding to TS1/0 on input line 16.
+(/usr/local/share/miktex-texmf/tex/latex/xstring/xstring.sty
+(/usr/local/share/miktex-texmf/tex/generic/xstring/xstring.tex
+\integerpart=\count291
+\decimalpart=\count292
+)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/share/miktex-texmf/tex/latex/carlisle/scalefnt.sty)
+(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+LaTeX Font Info:    Setting XCharter-LF sub-encoding to TS1/0 on input line 37.
 
-LaTeX Font Info:    Changing XCharter-TLF sub-encoding to TS1/0 on input line 1
-6.
-LaTeX Font Info:    Setting XCharter-OsF sub-encoding to TS1/0 on input line 16
+LaTeX Font Info:    Changing XCharter-TLF sub-encoding to TS1/0 on input line 3
+7.
+LaTeX Font Info:    Setting XCharter-OsF sub-encoding to TS1/0 on input line 37
 .
 LaTeX Font Info:    Changing XCharter-TOsF sub-encoding to TS1/0 on input line 
-16.
+37.
+\xch@cnt=\count293
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
-y
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count283
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.te
-x
-\integerpart=\count284
-\decimalpart=\count285
-)
-Package: xstring 2021/07/21 v1.84 String manipulations (CT)
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.st
-y
+(/usr/local/share/miktex-texmf/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -710,360 +391,458 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+LaTeX Info: Redefining \textsu on input line 737.
+LaTeX Info: Redefining \textde on input line 740.
+LaTeX Info: Redefining \textinf on input line 742.
+)
+(/home/awtorode/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.te
-x
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.t
-ex
-\XKV@toks=\toks34
-\XKV@tempa@toks=\toks35
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
 )
-\XKV@depth=\count286
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
-y
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
-\f@nch@headwidth=\skip59
-\f@nch@O@elh=\skip60
-\f@nch@O@erh=\skip61
-\f@nch@O@olh=\skip62
-\f@nch@O@orh=\skip63
-\f@nch@O@elf=\skip64
-\f@nch@O@erf=\skip65
-\f@nch@O@olf=\skip66
-\f@nch@O@orf=\skip67
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+(/usr/local/share/miktex-texmf/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip68
-\thanksmargin=\skip69
-\droptitle=\skip70
+\thanksmarkwidth=\skip69
+\thanksmargin=\skip70
+\droptitle=\skip71
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.st
-y
-File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+(/usr/local/share/miktex-texmf/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count294
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/minifp\minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
--based programing language.
-\MFP@loopctr=\count287
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+143.
+
+\mult@box=\box63
+\multicol@leftmargin=\dimen189
+\c@unbalance=\count295
+\c@collectmore=\count296
+\doublecol@number=\count297
+\multicoltolerance=\count298
+\multicolpretolerance=\count299
+\full@width=\dimen190
+\page@free=\dimen191
+\premulticols=\dimen192
+\postmulticols=\dimen193
+\multicolsep=\skip72
+\multicolbaselineskip=\skip73
+\partial@page=\box64
+\last@line=\box65
+\mc@boxedresult=\box66
+\maxbalancingoverflow=\dimen194
+\mult@rightbox=\box67
+\mult@grightbox=\box68
+\mult@firstbox=\box69
+\mult@gfirstbox=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\c@minrows=\count300
+\c@columnbadness=\count301
+\c@finalcolumnbadness=\count302
+\last@try=\dimen195
+\multicolovershoot=\dimen196
+\multicolundershoot=\dimen197
+\mult@nat@firstbox=\box107
+\colbreak@box=\box108
+\mc@col@check@num=\count303
+) (/usr/local/share/miktex-texmf/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2023-08-14 v2.52 (Daniel Flipo)
+
+(/usr/local/share/miktex-texmf/tex/latex/l3packages/xfp/xfp.sty
+(/usr/local/share/miktex-texmf/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-08-11 L3 programming layer (loader) 
+
+(/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box109
+))
+Package: xfp 2023-02-02 L3 Floating point unit
 )
-\c@DefaultLines=\count288
-\c@DefaultDepth=\count289
-\DefaultFindent=\dimen186
-\DefaultNindent=\dimen187
-\DefaultSlope=\dimen188
-\DiscardVskip=\dimen189
-\L@lbox=\box58
-\L@tbox=\box59
-\c@L@lines=\count290
-\c@L@depth=\count291
-\L@Pindent=\dimen190
-\L@Findent=\dimen191
-\L@Nindent=\dimen192
-\L@lraise=\dimen193
-\L@first=\dimen194
-\L@next=\dimen195
-\L@slope=\dimen196
-\L@height=\dimen197
-\L@novskip=\dimen198
-\L@target@ht=\dimen199
-\L@target@dp=\dimen256
-\L@target@tht=\dimen257
-\LettrineWidth=\dimen258
-\LettrineHeight=\dimen259
-\LettrineDepth=\dimen260
-\Llist@everypar=\toks36
+\c@DefaultLines=\count305
+\c@DefaultDepth=\count306
+\DefaultFindent=\dimen198
+\DefaultNindent=\dimen199
+\DefaultSlope=\dimen256
+\DiscardVskip=\dimen257
+\L@lettrine=\box110
+\L@lbox=\box111
+\L@tbox=\box112
+\c@L@lines=\count307
+\c@L@depth=\count308
+\L@Pindent=\dimen258
+\L@Findent=\dimen259
+\L@Nindent=\dimen260
+\L@lraise=\dimen261
+\L@first=\dimen262
+\L@next=\dimen263
+\L@slope=\dimen264
+\L@height=\dimen265
+\L@novskip=\dimen266
+\L@ruleht=\dimen267
+\L@target@ht=\dimen268
+\L@target@dp=\dimen269
+\L@target@tht=\dimen270
+\LettrineWidth=\dimen271
+\LettrineHeight=\dimen272
+\LettrineDepth=\dimen273
+
 Loading lettrine.cfg
+(/usr/local/share/miktex-texmf/tex/latex/lettrine/lettrine.cfg)
+\Llist@everypar=\toks39
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cf
-g)) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
-Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+(/usr/local/share/miktex-texmf/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/sttools\stfloats.sty
+(/usr/local/share/miktex-texmf/tex/latex/sttools/stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
-\@dblbotnum=\count292
-\c@dblbotnumber=\count293
+\@dblbotnum=\count309
+\c@dblbotnumber=\count310
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.st
-y
+(/home/awtorode/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box60
-\beforetitleunit=\skip71
-\aftertitleunit=\skip72
-\ttl@plus=\dimen261
-\ttl@minus=\dimen262
-\ttl@toksa=\toks37
-\titlewidth=\dimen263
-\titlewidthlast=\dimen264
-\titlewidthfirst=\dimen265
+\ttl@box=\box113
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen274
+\ttl@minus=\dimen275
+\ttl@toksa=\toks40
+\titlewidth=\dimen276
+\titlewidthlast=\dimen277
+\titlewidthfirst=\dimen278
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.st
-y
-Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip76
+\cftbeforetoctitleskip=\skip77
+\cftaftertoctitleskip=\skip78
+\cftbeforepartskip=\skip79
+\cftpartnumwidth=\skip80
+\cftpartindent=\skip81
+\cftbeforechapskip=\skip82
+\cftchapindent=\skip83
+\cftchapnumwidth=\skip84
+\cftbeforesecskip=\skip85
+\cftsecindent=\skip86
+\cftsecnumwidth=\skip87
+\cftbeforesubsecskip=\skip88
+\cftsubsecindent=\skip89
+\cftsubsecnumwidth=\skip90
+\cftbeforesubsubsecskip=\skip91
+\cftsubsubsecindent=\skip92
+\cftsubsubsecnumwidth=\skip93
+\cftbeforeparaskip=\skip94
+\cftparaindent=\skip95
+\cftparanumwidth=\skip96
+\cftbeforesubparaskip=\skip97
+\cftsubparaindent=\skip98
+\cftsubparanumwidth=\skip99
+\cftbeforeloftitleskip=\skip100
+\cftafterloftitleskip=\skip101
+\cftbeforefigskip=\skip102
+\cftfigindent=\skip103
+\cftfignumwidth=\skip104
+\c@lofdepth=\count311
+\c@lotdepth=\count312
+\cftbeforelottitleskip=\skip105
+\cftafterlottitleskip=\skip106
+\cftbeforetabskip=\skip107
+\cfttabindent=\skip108
+\cfttabnumwidth=\skip109
+)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
-mds.sty
+(/usr/local/share/miktex-texmf/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarer
-r.sty
+(/home/awtorode/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
-y
+(/home/awtorode/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
-sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/home/awtorode/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkey
-s.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(/home/awtorode/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+(/usr/local/share/miktex-texmf/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count294
+\lrq@indent=\count313
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+(/usr/local/share/miktex-texmf/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(/usr/local/share/miktex-texmf/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count295
-\c@listtotal=\count296
-\c@listcount=\count297
-\c@liststart=\count298
-\c@liststop=\count299
-\c@citecount=\count300
-\c@citetotal=\count301
-\c@multicitecount=\count302
-\c@multicitetotal=\count303
-\c@instcount=\count304
-\c@maxnames=\count305
-\c@minnames=\count306
-\c@maxitems=\count307
-\c@minitems=\count308
-\c@citecounter=\count309
-\c@maxcitecounter=\count310
-\c@savedcitecounter=\count311
-\c@uniquelist=\count312
-\c@uniquename=\count313
-\c@refsection=\count314
-\c@refsegment=\count315
-\c@maxextratitle=\count316
-\c@maxextratitleyear=\count317
-\c@maxextraname=\count318
-\c@maxextradate=\count319
-\c@maxextraalpha=\count320
-\c@abbrvpenalty=\count321
-\c@highnamepenalty=\count322
-\c@lownamepenalty=\count323
-\c@maxparens=\count324
-\c@parenlevel=\count325
-\blx@tempcnta=\count326
-\blx@tempcntb=\count327
-\blx@tempcntc=\count328
-\blx@maxsection=\count329
-\blx@maxsegment@0=\count330
-\blx@notetype=\count331
-\blx@parenlevel@text=\count332
-\blx@parenlevel@foot=\count333
-\blx@sectionciteorder@0=\count334
-\blx@entrysetcounter=\count335
-\blx@biblioinstance=\count336
-\labelnumberwidth=\skip73
-\labelalphawidth=\skip74
-\biblabelsep=\skip75
-\bibitemsep=\skip76
-\bibnamesep=\skip77
-\bibinitsep=\skip78
-\bibparsep=\skip79
-\bibhang=\skip80
+\c@tabx@nest=\count314
+\c@listtotal=\count315
+\c@listcount=\count316
+\c@liststart=\count317
+\c@liststop=\count318
+\c@citecount=\count319
+\c@citetotal=\count320
+\c@multicitecount=\count321
+\c@multicitetotal=\count322
+\c@instcount=\count323
+\c@maxnames=\count324
+\c@minnames=\count325
+\c@maxitems=\count326
+\c@minitems=\count327
+\c@citecounter=\count328
+\c@maxcitecounter=\count329
+\c@savedcitecounter=\count330
+\c@uniquelist=\count331
+\c@uniquename=\count332
+\c@refsection=\count333
+\c@refsegment=\count334
+\c@maxextratitle=\count335
+\c@maxextratitleyear=\count336
+\c@maxextraname=\count337
+\c@maxextradate=\count338
+\c@maxextraalpha=\count339
+\c@abbrvpenalty=\count340
+\c@highnamepenalty=\count341
+\c@lownamepenalty=\count342
+\c@maxparens=\count343
+\c@parenlevel=\count344
+\blx@tempcnta=\count345
+\blx@tempcntb=\count346
+\blx@tempcntc=\count347
+\c@blx@maxsection=\count348
+\blx@maxsegment@0=\count349
+\blx@notetype=\count350
+\blx@parenlevel@text=\count351
+\blx@parenlevel@foot=\count352
+\blx@sectionciteorder@0=\count353
+\blx@sectionciteorderinternal@0=\count354
+\blx@entrysetcounter=\count355
+\blx@biblioinstance=\count356
+\labelnumberwidth=\skip110
+\labelalphawidth=\skip111
+\biblabelsep=\skip112
+\bibitemsep=\skip113
+\bibnamesep=\skip114
+\bibinitsep=\skip115
+\bibparsep=\skip116
+\bibhang=\skip117
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language80
-\c@mincomprange=\count337
-\c@maxcomprange=\count338
-\c@mincompwidth=\count339
+\blx@langwohyphens=\language2
+\c@mincomprange=\count357
+\c@maxcomprange=\count358
+\c@mincompwidth=\count359
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count340
-\c@savedafterword=\count341
-\c@annotator=\count342
-\c@savedannotator=\count343
-\c@author=\count344
-\c@savedauthor=\count345
-\c@bookauthor=\count346
-\c@savedbookauthor=\count347
-\c@commentator=\count348
-\c@savedcommentator=\count349
-\c@editor=\count350
-\c@savededitor=\count351
-\c@editora=\count352
-\c@savededitora=\count353
-\c@editorb=\count354
-\c@savededitorb=\count355
-\c@editorc=\count356
-\c@savededitorc=\count357
-\c@foreword=\count358
-\c@savedforeword=\count359
-\c@holder=\count360
-\c@savedholder=\count361
-\c@introduction=\count362
-\c@savedintroduction=\count363
-\c@namea=\count364
-\c@savednamea=\count365
-\c@nameb=\count366
-\c@savednameb=\count367
-\c@namec=\count368
-\c@savednamec=\count369
-\c@translator=\count370
-\c@savedtranslator=\count371
-\c@shortauthor=\count372
-\c@savedshortauthor=\count373
-\c@shorteditor=\count374
-\c@savedshorteditor=\count375
-\c@labelname=\count376
-\c@savedlabelname=\count377
-\c@institution=\count378
-\c@savedinstitution=\count379
-\c@lista=\count380
-\c@savedlista=\count381
-\c@listb=\count382
-\c@savedlistb=\count383
-\c@listc=\count384
-\c@savedlistc=\count385
-\c@listd=\count386
-\c@savedlistd=\count387
-\c@liste=\count388
-\c@savedliste=\count389
-\c@listf=\count390
-\c@savedlistf=\count391
-\c@location=\count392
-\c@savedlocation=\count393
-\c@organization=\count394
-\c@savedorganization=\count395
-\c@origlocation=\count396
-\c@savedoriglocation=\count397
-\c@origpublisher=\count398
-\c@savedorigpublisher=\count399
-\c@publisher=\count400
-\c@savedpublisher=\count401
-\c@language=\count402
-\c@savedlanguage=\count403
-\c@origlanguage=\count404
-\c@savedoriglanguage=\count405
-\c@pageref=\count406
-\c@savedpageref=\count407
-\shorthandwidth=\skip81
-\shortjournalwidth=\skip82
-\shortserieswidth=\skip83
-\shorttitlewidth=\skip84
-\shortauthorwidth=\skip85
-\shorteditorwidth=\skip86
-\locallabelnumberwidth=\skip87
-\locallabelalphawidth=\skip88
-\localshorthandwidth=\skip89
-\localshortjournalwidth=\skip90
-\localshortserieswidth=\skip91
-\localshorttitlewidth=\skip92
-\localshortauthorwidth=\skip93
-\localshorteditorwidth=\skip94
+\c@afterword=\count360
+\c@savedafterword=\count361
+\c@annotator=\count362
+\c@savedannotator=\count363
+\c@author=\count364
+\c@savedauthor=\count365
+\c@bookauthor=\count366
+\c@savedbookauthor=\count367
+\c@commentator=\count368
+\c@savedcommentator=\count369
+\c@editor=\count370
+\c@savededitor=\count371
+\c@editora=\count372
+\c@savededitora=\count373
+\c@editorb=\count374
+\c@savededitorb=\count375
+\c@editorc=\count376
+\c@savededitorc=\count377
+\c@foreword=\count378
+\c@savedforeword=\count379
+\c@holder=\count380
+\c@savedholder=\count381
+\c@introduction=\count382
+\c@savedintroduction=\count383
+\c@namea=\count384
+\c@savednamea=\count385
+\c@nameb=\count386
+\c@savednameb=\count387
+\c@namec=\count388
+\c@savednamec=\count389
+\c@translator=\count390
+\c@savedtranslator=\count391
+\c@shortauthor=\count392
+\c@savedshortauthor=\count393
+\c@shorteditor=\count394
+\c@savedshorteditor=\count395
+\c@labelname=\count396
+\c@savedlabelname=\count397
+\c@institution=\count398
+\c@savedinstitution=\count399
+\c@lista=\count400
+\c@savedlista=\count401
+\c@listb=\count402
+\c@savedlistb=\count403
+\c@listc=\count404
+\c@savedlistc=\count405
+\c@listd=\count406
+\c@savedlistd=\count407
+\c@liste=\count408
+\c@savedliste=\count409
+\c@listf=\count410
+\c@savedlistf=\count411
+\c@location=\count412
+\c@savedlocation=\count413
+\c@organization=\count414
+\c@savedorganization=\count415
+\c@origlocation=\count416
+\c@savedoriglocation=\count417
+\c@origpublisher=\count418
+\c@savedorigpublisher=\count419
+\c@publisher=\count420
+\c@savedpublisher=\count421
+\c@language=\count422
+\c@savedlanguage=\count423
+\c@origlanguage=\count424
+\c@savedoriglanguage=\count425
+\c@pageref=\count426
+\c@savedpageref=\count427
+\shorthandwidth=\skip118
+\shortjournalwidth=\skip119
+\shortserieswidth=\skip120
+\shorttitlewidth=\skip121
+\shortauthorwidth=\skip122
+\shorteditorwidth=\skip123
+\locallabelnumberwidth=\skip124
+\locallabelalphawidth=\skip125
+\localshorthandwidth=\skip126
+\localshortjournalwidth=\skip127
+\localshortserieswidth=\skip128
+\localshorttitlewidth=\skip129
+\localshortauthorwidth=\skip130
+\localshorteditorwidth=\skip131
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.
-def
-File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.
-def
-File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 
 
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
+Package biblatex Warning: Using fall-back bibtex backend:
 (biblatex)                functionality may be reduced/unavailable.
 
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.de
-f
-File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count408
-\c@textcitetotal=\count409
-\c@textcitemaxnames=\count410
-\c@biburlbigbreakpenalty=\count411
-\c@biburlbreakpenalty=\count412
-\c@biburlnumpenalty=\count413
-\c@biburlucpenalty=\count414
-\c@biburllcpenalty=\count415
+ (/usr/local/share/miktex-texmf/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count428
+\c@textcitetotal=\count429
+\c@textcitemaxnames=\count430
+\c@biburlbigbreakpenalty=\count431
+\c@biburlbreakpenalty=\count432
+\c@biburlnumpenalty=\count433
+\c@biburlucpenalty=\count434
+\c@biburllcpenalty=\count435
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count416
+\c@smartand=\count436
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.
-def
-File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authory
-ear.bbx
-File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standar
-d.bbx
-File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count417
-\c@bbx:relatedtotal=\count418
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count437
+\c@bbx:relatedtotal=\count438
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authory
-ear.cbx
-File: authoryear.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1075,712 +854,574 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cf
-g
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.st
-y
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-\csq@reset=\count419
-\csq@gtype=\count420
-\csq@glevel=\count421
-\csq@qlevel=\count422
-\csq@maxlvl=\count423
-\csq@tshold=\count424
-\csq@ltx@everypar=\toks38
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2023-08-11 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.de
-f
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/share/miktex-texmf/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+(/usr/local/share/miktex-texmf/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count439
+\csq@gtype=\count440
+\csq@glevel=\count441
+\csq@qlevel=\count442
+\csq@maxlvl=\count443
+\csq@tshold=\count444
+\csq@ltx@everypar=\toks41
+
+(/usr/local/share/miktex-texmf/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cf
-g
+(/usr/local/share/miktex-texmf/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\ti
-kz.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
-ty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs
-.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
-til-common.tex
-\pgfutil@everybye=\toks39
-\pgfutil@tempdima=\dimen266
-\pgfutil@tempdimb=\dimen267
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
-til-common-lists.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
-til-latex.def
-\pgfutil@abb=\box61
+(/usr/local/share/miktex-texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/share/miktex-texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/share/miktex-texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks42
+\pgfutil@tempdima=\dimen279
+\pgfutil@tempdimb=\dimen280
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfr
-cs.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.t
-ex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box114
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
-re.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
-ys.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-fsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/share/miktex-texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
-eys.code.tex
-\pgfkeys@pathtoks=\toks40
-\pgfkeys@temptoks=\toks41
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks43
+\pgfkeys@temptoks=\toks44
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
-eysfiltered.code.tex
-\pgfkeys@tmptoks=\toks42
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks45
 ))
-\pgf@x=\dimen268
-\pgf@y=\dimen269
-\pgf@xa=\dimen270
-\pgf@ya=\dimen271
-\pgf@xb=\dimen272
-\pgf@yb=\dimen273
-\pgf@xc=\dimen274
-\pgf@yc=\dimen275
-\pgf@xd=\dimen276
-\pgf@yd=\dimen277
+\pgf@x=\dimen281
+\pgf@y=\dimen282
+\pgf@xa=\dimen283
+\pgf@ya=\dimen284
+\pgf@xb=\dimen285
+\pgf@yb=\dimen286
+\pgf@xc=\dimen287
+\pgf@yc=\dimen288
+\pgf@xd=\dimen289
+\pgf@yd=\dimen290
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count425
-\c@pgf@countb=\count426
-\c@pgf@countc=\count427
-\c@pgf@countd=\count428
-\t@pgf@toka=\toks43
-\t@pgf@tokb=\toks44
-\t@pgf@tokc=\toks45
-\pgf@sys@id@count=\count429
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-f.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+\c@pgf@counta=\count445
+\c@pgf@countb=\count446
+\c@pgf@countc=\count447
+\c@pgf@countd=\count448
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+\pgf@sys@id@count=\count449
+ (/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
+(/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-fsys-pdftex.def
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-fsys-common-pdf.def
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-fsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count430
-\pgfsyssoftpath@bigbuffer@items=\count431
+(/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count450
+\pgfsyssoftpath@bigbuffer@items=\count451
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
-fsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-core.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen291
+\pgfmath@count=\count452
+\pgfmath@box=\box115
+\pgfmath@toks=\toks49
+\pgfmath@stack@operand=\toks50
+\pgfmath@stack@operation=\toks51
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count453
+))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen292
+\pgf@picmaxx=\dimen293
+\pgf@picminy=\dimen294
+\pgf@picmaxy=\dimen295
+\pgf@pathminx=\dimen296
+\pgf@pathmaxx=\dimen297
+\pgf@pathminy=\dimen298
+\pgf@pathmaxy=\dimen299
+\pgf@xx=\dimen300
+\pgf@xy=\dimen301
+\pgf@yx=\dimen302
+\pgf@yy=\dimen303
+\pgf@zx=\dimen304
+\pgf@zy=\dimen305
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen306
+\pgf@path@lasty=\dimen307
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen308
+\pgf@shorten@start@additional=\dimen309
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box116
+\pgf@hbox=\box117
+\pgf@layerbox@main=\box118
+\pgf@picture@serial@count=\count454
+)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathca
-lc.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathut
-il.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpa
-rser.code.tex
-\pgfmath@dimen=\dimen278
-\pgfmath@count=\count432
-\pgfmath@box=\box62
-\pgfmath@toks=\toks46
-\pgfmath@stack@operand=\toks47
-\pgfmath@stack@operation=\toks48
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen310
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.basic.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.trigonometric.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.random.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.comparison.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.base.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.round.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.misc.code.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
-nctions.integerarithmetics.code.tex)))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfl
-oat.code.tex
-\c@pgfmathroundto@lastzeros=\count433
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.co
-de.tex)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corepoints.code.tex
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen279
-\pgf@picmaxx=\dimen280
-\pgf@picminy=\dimen281
-\pgf@picmaxy=\dimen282
-\pgf@pathminx=\dimen283
-\pgf@pathmaxx=\dimen284
-\pgf@pathminy=\dimen285
-\pgf@pathmaxy=\dimen286
-\pgf@xx=\dimen287
-\pgf@xy=\dimen288
-\pgf@yx=\dimen289
-\pgf@yy=\dimen290
-\pgf@zx=\dimen291
-\pgf@zy=\dimen292
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen311
+\pgf@pt@y=\dimen312
+\pgf@pt@temp=\dimen313
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen293
-\pgf@path@lasty=\dimen294
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corepathusage.code.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen295
-\pgf@shorten@start@additional=\dimen296
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corescopes.code.tex
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box63
-\pgf@hbox=\box64
-\pgf@layerbox@main=\box65
-\pgf@picture@serial@count=\count434
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen297
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen314
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coretransformations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen298
-\pgf@pt@y=\dimen299
-\pgf@pt@temp=\dimen300
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen315
+\pgf@sys@shading@range@num=\count455
+\pgf@shadingcount=\count456
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corequick.code.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coreobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box119
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corearrows.code.tex
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen301
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coreshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen302
-\pgf@sys@shading@range@num=\count435
-\pgf@shadingcount=\count436
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coreimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coreexternal.code.tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box66
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corelayers.code.tex
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-coretransparency.code.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corepatterns.code.tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
-corerdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
-uleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box67
+(/usr/local/share/miktex-texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box120
+) (/usr/local/share/miktex-texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
-uleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
-fcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen303
-\pgf@nodesepend=\dimen304
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
-fcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor
+(/usr/local/share/miktex-texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkey
-s.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
-eys.code.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
-ode.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgff
-or.code.tex
-Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
-ode.tex)
-\pgffor@iter=\dimen305
-\pgffor@skip=\dimen306
-\pgffor@stack=\toks49
-\pgffor@toks=\toks50
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz\tikz.code.tex
-Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
-ibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count437
-\pgfplotmarksize=\dimen307
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen316
+\pgf@nodesepend=\dimen317
 )
-\tikz@lastx=\dimen308
-\tikz@lasty=\dimen309
-\tikz@lastxsaved=\dimen310
-\tikz@lastysaved=\dimen311
-\tikz@lastmovetox=\dimen312
-\tikz@lastmovetoy=\dimen313
-\tikzleveldistance=\dimen314
-\tikzsiblingdistance=\dimen315
-\tikz@figbox=\box68
-\tikz@figbox@bg=\box69
-\tikz@tempbox=\box70
-\tikz@tempbox@bg=\box71
-\tikztreelevel=\count438
-\tikznumberofchildren=\count439
-\tikznumberofcurrentchild=\count440
-\tikz@fig@count=\count441
+(/usr/local/share/miktex-texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/share/miktex-texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/share/miktex-texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/local/share/miktex-texmf/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/share/miktex-texmf/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen318
+\pgffor@skip=\dimen319
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
+))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
-ulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count442
-\pgfmatrixcurrentcolumn=\count443
-\pgf@matrix@numberofcolumns=\count444
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count457
+\pgfplotmarksize=\dimen320
 )
-\tikz@expandcount=\count445
+\tikz@lastx=\dimen321
+\tikz@lasty=\dimen322
+\tikz@lastxsaved=\dimen323
+\tikz@lastysaved=\dimen324
+\tikz@lastmovetox=\dimen325
+\tikz@lastmovetoy=\dimen326
+\tikzleveldistance=\dimen327
+\tikzsiblingdistance=\dimen328
+\tikz@figbox=\box121
+\tikz@figbox@bg=\box122
+\tikz@tempbox=\box123
+\tikz@tempbox@bg=\box124
+\tikztreelevel=\count458
+\tikznumberofchildren=\count459
+\tikznumberofcurrentchild=\count460
+\tikz@fig@count=\count461
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count462
+\pgfmatrixcurrentcolumn=\count463
+\pgf@matrix@numberofcolumns=\count464
+)
+\tikz@expandcount=\count465
+
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.callouts.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.callouts.code.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
-es\pgflibraryshapes.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodepartlowerbox=\box72
-\pgfnodeparttwobox=\box73
-\pgfnodepartthreebox=\box74
-\pgfnodepartfourbox=\box75
-\pgfnodeparttwentybox=\box76
-\pgfnodepartnineteenbox=\box77
-\pgfnodeparteighteenbox=\box78
-\pgfnodepartseventeenbox=\box79
-\pgfnodepartsixteenbox=\box80
-\pgfnodepartfifteenbox=\box81
-\pgfnodepartfourteenbox=\box82
-\pgfnodepartthirteenbox=\box83
-\pgfnodeparttwelvebox=\box84
-\pgfnodepartelevenbox=\box85
-\pgfnodeparttenbox=\box86
-\pgfnodepartninebox=\box87
-\pgfnodeparteightbox=\box88
-\pgfnodepartsevenbox=\box89
-\pgfnodepartsixbox=\box90
-\pgfnodepartfivebox=\box91
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box125
+\pgfnodeparttwobox=\box126
+\pgfnodepartthreebox=\box127
+\pgfnodepartfourbox=\box128
+\pgfnodeparttwentybox=\box129
+\pgfnodepartnineteenbox=\box130
+\pgfnodeparteighteenbox=\box131
+\pgfnodepartseventeenbox=\box132
+\pgfnodepartsixteenbox=\box133
+\pgfnodepartfifteenbox=\box134
+\pgfnodepartfourteenbox=\box135
+\pgfnodepartthirteenbox=\box136
+\pgfnodeparttwelvebox=\box137
+\pgfnodepartelevenbox=\box138
+\pgfnodeparttenbox=\box139
+\pgfnodepartninebox=\box140
+\pgfnodeparteightbox=\box141
+\pgfnodepartsevenbox=\box142
+\pgfnodepartsixbox=\box143
+\pgfnodepartfivebox=\box144
 )))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarysnakes.code.tex
-File: tikzlibrarysnakes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 
 Package pgf Warning: Snakes have been superseded by decorations. Please use the
  decoration libraries instead of the snakes library on input line 14.
 
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
-uledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen316
-\pgfdecoratedremainingdistance=\dimen317
-\pgfdecoratedinputsegmentcompleteddistance=\dimen318
-\pgfdecoratedinputsegmentremainingdistance=\dimen319
-\pgf@decorate@distancetomove=\dimen320
-\pgf@decorate@repeatstate=\count446
-\pgfdecorationsegmentamplitude=\dimen321
-\pgfdecorationsegmentlength=\dimen322
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen329
+\pgfdecoratedremainingdistance=\dimen330
+\pgfdecoratedinputsegmentcompleteddistance=\dimen331
+\pgfdecoratedinputsegmentremainingdistance=\dimen332
+\pgf@decorate@distancetomove=\dimen333
+\pgf@decorate@repeatstate=\count466
+\pgfdecorationsegmentamplitude=\dimen334
+\pgfdecorationsegmentlength=\dimen335
 )
-\tikz@lib@dec@box=\box92
+\tikz@lib@dec@box=\box145
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/deco
-rations\pgflibrarydecorations.pathmorphing.code.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/deco
-rations\pgflibrarydecorations.pathreplacing.code.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibrarydecorations.shapes.code.tex
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/deco
-rations\pgflibrarydecorations.shapes.code.tex)))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.shapes.code.tex
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.shapes.code.tex)))
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/polynom\polynom.sty
+(/home/awtorode/.miktex/texmfs/install/tex/latex/polynom/polynom.sty
 Package: polynom 2017/07/17 0.19 (CH,HA)
-\pld@currstage=\count447
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.st
-y
-\wrapoverhang=\dimen323
-\WF@size=\dimen324
-\c@WF@wrappedlines=\count448
-\WF@box=\box93
-\WF@everypar=\toks51
+\pld@currstage=\count467
+)
+(/usr/local/share/miktex-texmf/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen336
+\WF@size=\dimen337
+\c@WF@wrappedlines=\count468
+\WF@box=\box146
+\WF@everypar=\toks54
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\
-l3keys2e.sty
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
-pdftex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count449
-\l__pdf_internal_box=\box94
-))
-Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/local/share/miktex-texmf/tex/latex/lipsum/lipsum.sty
+(/usr/local/share/miktex-texmf/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count450
-\l__lipsum_a_int=\count451
-\l__lipsum_b_int=\count452
+\g__lipsum_par_int=\count469
+\l__lipsum_a_int=\count470
+\l__lipsum_b_int=\count471
 
-LaTeX3 Info: Defining command \LipsumPar with sig. 'm' on line 175.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListItemStart with sig. 's+m' on
-(LaTeX3)     line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListStart with sig. 's+m' on line
-(LaTeX3)     208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListItemEnd with sig. 's+m' on line
-(LaTeX3)     208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListEnd with sig. 's+m' on line
-(LaTeX3)     208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListItemSurrounders with sig.
-(LaTeX3)     's+m+m' on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListSurrounders with sig. 's+m+m'
-(LaTeX3)     on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumParListItemSeparator with sig. 's+m'
-(LaTeX3)     on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListItemStart with sig. 's+m'
-(LaTeX3)     on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListStart with sig. 's+m' on
-(LaTeX3)     line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListItemEnd with sig. 's+m' on
-(LaTeX3)     line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListEnd with sig. 's+m' on
-(LaTeX3)     line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListItemSurrounders with sig.
-(LaTeX3)     's+m+m' on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListSurrounders with sig.
-(LaTeX3)     's+m+m' on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumSentenceListItemSeparator with sig.
-(LaTeX3)     's+m' on line 208.
-
-
-LaTeX3 Info: Defining command \SetLipsumDefault with sig. 'm' on line 214.
-
-
-LaTeX3 Info: Defining command \lipsum with sig. 'sO{\g_lipsum_default_range_tl
-(LaTeX3)     }o' on line 223.
-
-
-LaTeX3 Info: Defining command \unpacklipsum with sig.
-(LaTeX3)     'sO{\g_lipsum_default_range_tl }o' on line 225.
-
-
-LaTeX3 Info: Defining command \SetLipsumText with sig. 'm' on line 326.
-
-
-LaTeX3 Info: Defining command \SetLipsumLanguage with sig. 'm' on line 328.
-
-
-LaTeX3 Info: Defining command \setlipsum with sig. '+m' on line 357.
-
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.te
-x))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.st
-y
+(/usr/local/share/miktex-texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/home/awtorode/.miktex/texmfs/install/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
-arse.sty
-Package: xparse 2020-10-27 L3 Experimental document command parser
+(/home/awtorode/.miktex/texmfs/install/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
-arse-generic.tex))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.st
+(/home/awtorode/.miktex/texmfs/install/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+
+(/home/awtorode/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.st
 y
-Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
- (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
-Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
-inekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.
-sty
+) (/home/awtorode/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(/home/awtorode/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-Package zref Info: New property list: main on input line 764.
-Package zref Info: New property: default on input line 765.
-Package zref Info: New property: page on input line 766.
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
-y
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+(/usr/local/share/miktex-texmf/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\c@abspage=\count453
-Package zref Info: New property: abspage on input line 66.
+\c@abspage=\count472
+Package zref Info: New property: abspage on input line 65.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.
-sty
+(/home/awtorode/.miktex/texmfs/install/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip95
-\c@mdf@globalstyle@cnt=\count454
-\mdf@skipabove@length=\skip96
-\mdf@skipbelow@length=\skip97
-\mdf@leftmargin@length=\skip98
-\mdf@rightmargin@length=\skip99
-\mdf@innerleftmargin@length=\skip100
-\mdf@innerrightmargin@length=\skip101
-\mdf@innertopmargin@length=\skip102
-\mdf@innerbottommargin@length=\skip103
-\mdf@splittopskip@length=\skip104
-\mdf@splitbottomskip@length=\skip105
-\mdf@outermargin@length=\skip106
-\mdf@innermargin@length=\skip107
-\mdf@linewidth@length=\skip108
-\mdf@innerlinewidth@length=\skip109
-\mdf@middlelinewidth@length=\skip110
-\mdf@outerlinewidth@length=\skip111
-\mdf@roundcorner@length=\skip112
-\mdf@footenotedistance@length=\skip113
-\mdf@userdefinedwidth@length=\skip114
-\mdf@needspace@length=\skip115
-\mdf@frametitleaboveskip@length=\skip116
-\mdf@frametitlebelowskip@length=\skip117
-\mdf@frametitlerulewidth@length=\skip118
-\mdf@frametitleleftmargin@length=\skip119
-\mdf@frametitlerightmargin@length=\skip120
-\mdf@shadowsize@length=\skip121
-\mdf@extratopheight@length=\skip122
-\mdf@subtitleabovelinewidth@length=\skip123
-\mdf@subtitlebelowlinewidth@length=\skip124
-\mdf@subtitleaboveskip@length=\skip125
-\mdf@subtitlebelowskip@length=\skip126
-\mdf@subtitleinneraboveskip@length=\skip127
-\mdf@subtitleinnerbelowskip@length=\skip128
-\mdf@subsubtitleabovelinewidth@length=\skip129
-\mdf@subsubtitlebelowlinewidth@length=\skip130
-\mdf@subsubtitleaboveskip@length=\skip131
-\mdf@subsubtitlebelowskip@length=\skip132
-\mdf@subsubtitleinneraboveskip@length=\skip133
-\mdf@subsubtitleinnerbelowskip@length=\skip134
+\mdf@templength=\skip132
+\c@mdf@globalstyle@cnt=\count473
+\mdf@skipabove@length=\skip133
+\mdf@skipbelow@length=\skip134
+\mdf@leftmargin@length=\skip135
+\mdf@rightmargin@length=\skip136
+\mdf@innerleftmargin@length=\skip137
+\mdf@innerrightmargin@length=\skip138
+\mdf@innertopmargin@length=\skip139
+\mdf@innerbottommargin@length=\skip140
+\mdf@splittopskip@length=\skip141
+\mdf@splitbottomskip@length=\skip142
+\mdf@outermargin@length=\skip143
+\mdf@innermargin@length=\skip144
+\mdf@linewidth@length=\skip145
+\mdf@innerlinewidth@length=\skip146
+\mdf@middlelinewidth@length=\skip147
+\mdf@outerlinewidth@length=\skip148
+\mdf@roundcorner@length=\skip149
+\mdf@footenotedistance@length=\skip150
+\mdf@userdefinedwidth@length=\skip151
+\mdf@needspace@length=\skip152
+\mdf@frametitleaboveskip@length=\skip153
+\mdf@frametitlebelowskip@length=\skip154
+\mdf@frametitlerulewidth@length=\skip155
+\mdf@frametitleleftmargin@length=\skip156
+\mdf@frametitlerightmargin@length=\skip157
+\mdf@shadowsize@length=\skip158
+\mdf@extratopheight@length=\skip159
+\mdf@subtitleabovelinewidth@length=\skip160
+\mdf@subtitlebelowlinewidth@length=\skip161
+\mdf@subtitleaboveskip@length=\skip162
+\mdf@subtitlebelowskip@length=\skip163
+\mdf@subtitleinneraboveskip@length=\skip164
+\mdf@subtitleinnerbelowskip@length=\skip165
+\mdf@subsubtitleabovelinewidth@length=\skip166
+\mdf@subsubtitlebelowlinewidth@length=\skip167
+\mdf@subsubtitleaboveskip@length=\skip168
+\mdf@subsubtitlebelowskip@length=\skip169
+\mdf@subsubtitleinneraboveskip@length=\skip170
+\mdf@subsubtitleinnerbelowskip@length=\skip171
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.
-mdf
+(/home/awtorode/.miktex/texmfs/install/tex/latex/mdframed/md-frame-1.mdf
 File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 )
-\mdf@frametitlebox=\box95
-\mdf@footnotebox=\box96
-\mdf@splitbox@one=\box97
-\mdf@splitbox@two=\box98
-\mdf@splitbox@save=\box99
-\mdfsplitboxwidth=\skip135
-\mdfsplitboxtotalwidth=\skip136
-\mdfsplitboxheight=\skip137
-\mdfsplitboxdepth=\skip138
-\mdfsplitboxtotalheight=\skip139
-\mdfframetitleboxwidth=\skip140
-\mdfframetitleboxtotalwidth=\skip141
-\mdfframetitleboxheight=\skip142
-\mdfframetitleboxdepth=\skip143
-\mdfframetitleboxtotalheight=\skip144
-\mdffootnoteboxwidth=\skip145
-\mdffootnoteboxtotalwidth=\skip146
-\mdffootnoteboxheight=\skip147
-\mdffootnoteboxdepth=\skip148
-\mdffootnoteboxtotalheight=\skip149
-\mdftotallinewidth=\skip150
-\mdfboundingboxwidth=\skip151
-\mdfboundingboxtotalwidth=\skip152
-\mdfboundingboxheight=\skip153
-\mdfboundingboxdepth=\skip154
-\mdfboundingboxtotalheight=\skip155
-\mdf@freevspace@length=\skip156
-\mdf@horizontalwidthofbox@length=\skip157
-\mdf@verticalmarginwhole@length=\skip158
-\mdf@horizontalspaceofbox=\skip159
-\mdfsubtitleheight=\skip160
-\mdfsubsubtitleheight=\skip161
-\c@mdfcountframes=\count455
+\mdf@frametitlebox=\box147
+\mdf@footnotebox=\box148
+\mdf@splitbox@one=\box149
+\mdf@splitbox@two=\box150
+\mdf@splitbox@save=\box151
+\mdfsplitboxwidth=\skip172
+\mdfsplitboxtotalwidth=\skip173
+\mdfsplitboxheight=\skip174
+\mdfsplitboxdepth=\skip175
+\mdfsplitboxtotalheight=\skip176
+\mdfframetitleboxwidth=\skip177
+\mdfframetitleboxtotalwidth=\skip178
+\mdfframetitleboxheight=\skip179
+\mdfframetitleboxdepth=\skip180
+\mdfframetitleboxtotalheight=\skip181
+\mdffootnoteboxwidth=\skip182
+\mdffootnoteboxtotalwidth=\skip183
+\mdffootnoteboxheight=\skip184
+\mdffootnoteboxdepth=\skip185
+\mdffootnoteboxtotalheight=\skip186
+\mdftotallinewidth=\skip187
+\mdfboundingboxwidth=\skip188
+\mdfboundingboxtotalwidth=\skip189
+\mdfboundingboxheight=\skip190
+\mdfboundingboxdepth=\skip191
+\mdfboundingboxtotalheight=\skip192
+\mdf@freevspace@length=\skip193
+\mdf@horizontalwidthofbox@length=\skip194
+\mdf@verticalmarginwhole@length=\skip195
+\mdf@horizontalspaceofbox=\skip196
+\mdfsubtitleheight=\skip197
+\mdfsubsubtitleheight=\skip198
+\c@mdfcountframes=\count474
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count456
-\c@mdf@env@i=\count457
-\c@mdf@env@ii=\count458
-\c@mdf@zref@counter=\count459
+\mdf@envdepth=\count475
+\c@mdf@env@i=\count476
+\c@mdf@env@ii=\count477
+\c@mdf@zref@counter=\count478
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepag
-e.sty
+(/usr/local/share/miktex-texmf/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count460
-\cp@tempcnt=\count461
+\c@cp@cntr=\count479
+\cp@tempcnt=\count480
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+(/usr/local/share/miktex-texmf/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip162
-\fb@frw=\dimen325
-\fb@frh=\dimen326
-\FrameRule=\dimen327
-\FrameSep=\dimen328
+\OuterFrameSep=\skip199
+\fb@frw=\dimen338
+\fb@frh=\dimen339
+\FrameRule=\dimen340
+\FrameSep=\dimen341
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
-Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+(/usr/local/share/miktex-texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -1814,179 +1455,143 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.
-sty
-Package: tcolorbox 2020/10/09 version 4.42 text color boxes
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2023/06/19 version 6.0.4 text color boxes
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbatim
-.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks52
-\verbatim@line=\toks53
+(/usr/local/share/miktex-texmf/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks55
+\verbatim@line=\toks56
 \verbatim@in@stream=\read5
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+(/usr/local/share/miktex-texmf/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspace
-s.sty
+(/usr/local/share/miktex-texmf/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box100
-\tcb@upperbox=\box101
-\tcb@lowerbox=\box102
-\tcb@phantombox=\box103
-\c@tcbbreakpart=\count462
-\c@tcblayer=\count463
-\c@tcolorbox@number=\count464
-\tcb@temp=\box104
-\tcb@temp=\box105
-\tcb@temp=\box106
-\tcb@temp=\box107
-\tcb@out=\write5
-\tcb@record@out=\write6
+\tcb@titlebox=\box152
+\tcb@upperbox=\box153
+\tcb@lowerbox=\box154
+\tcb@phantombox=\box155
+\c@tcbbreakpart=\count481
+\c@tcblayer=\count482
+\c@tcolorbox@number=\count483
+\tcb@temp=\box156
+\tcb@temp=\box157
+\tcb@temp=\box158
+\tcb@temp=\box159
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.
-code.tex
-Library (tcolorbox): 'tcbraster.code.tex' version '4.42'
-\c@tcbrastercolumn=\count465
-\c@tcbrasterrow=\count466
-\c@tcbraster=\count467
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.0.4'
+\c@tcbrastercolumn=\count484
+\c@tcbrasterrow=\count485
+\c@tcbrasternum=\count486
+\c@tcbraster=\count487
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(/usr/local/share/miktex-texmf/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.c
-ode.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '4.42'
-\tcb@waterbox=\box108
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsji
-gsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.42'
-))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakab
-le.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '4.42'
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.st
-y
-Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+(/usr/local/share/miktex-texmf/tex/latex/tikzfill/tikzlibraryfill.image.code.te
+x
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box160
+)) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.4'
+)) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
-\tcb@testbox=\box109
-\tcb@totalupperbox=\box110
-\tcb@totallowerbox=\box111
+\tcb@testbox=\box161
+\tcb@totalupperbox=\box162
+\tcb@totallowerbox=\box163
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.c
-ode.tex
-Library (tcolorbox): 'tcbhooks.code.tex' version '4.42'
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorem
-s.code.tex
-Library (tcolorbox): 'tcbtheorems.code.tex' version '4.42'
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting
-.code.tex
-Library (tcolorbox): 'tcbfitting.code.tex' version '4.42'
-\tcbfitdim=\dimen329
-\tcb@lowerfitdim=\dimen330
-\tcb@upperfitdim=\dimen331
-\tcb@cur@hbadness=\count468
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbxparse.
-code.tex
-Library (tcolorbox): 'tcbxparse.code.tex' version '4.42'
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblisting
-sutf8.code.tex
-Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.42'
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.0.4'
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.4'
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.0.4'
+\tcbfitdim=\dimen342
+\tcb@lowerfitdim=\dimen343
+\tcb@upperfitdim=\dimen344
+\tcb@cur@hbadness=\count488
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/listings/listings.sty
+\lst@mode=\count489
+\lst@gtempboxa=\box164
+\lst@token=\toks57
+\lst@length=\count490
+\lst@currlwidth=\dimen345
+\lst@column=\count491
+\lst@pos=\count492
+\lst@lostspace=\dimen346
+\lst@width=\dimen347
+\lst@newlines=\count493
+\lst@lineno=\count494
+\lst@maxwidth=\dimen348
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblisting
-s.code.tex
-Library (tcolorbox): 'tcblistings.code.tex' version '4.42'
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
-y
-\lst@mode=\count469
-\lst@gtempboxa=\box112
-\lst@token=\toks54
-\lst@length=\count470
-\lst@currlwidth=\dimen332
-\lst@column=\count471
-\lst@pos=\count472
-\lst@lostspace=\dimen333
-\lst@width=\dimen334
-\lst@newlines=\count473
-\lst@lineno=\count474
-\lst@maxwidth=\dimen335
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count475
-\lst@skipnumbers=\count476
-\lst@framebox=\box113
+(/usr/local/share/miktex-texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count495
+\lst@skipnumbers=\count496
+\lst@framebox=\box165
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cf
-g
-File: listings.cfg 2020/03/24 1.8d listings configuration
+(/usr/local/share/miktex-texmf/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblisting
-score.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '4.42'
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocess
-ing.code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '4.42'
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\shellesc
-.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.0.4'
+(/usr/local/share/miktex-texmf/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/04/15 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
-\c@tcblisting=\count477
+\c@tcblisting=\count497
 ))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listing
-sutf8.sty
+(/usr/local/share/miktex-texmf/tex/latex/listingsutf8/listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringen
-c.sty
+(/usr/local/share/miktex-texmf/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescap
-e.sty
+(/home/awtorode/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ))))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexterna
-l.code.tex
-Library (tcolorbox): 'tcbexternal.code.tex' version '4.42'
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazin
-e.code.tex
-Library (tcolorbox): 'tcbmagazine.code.tex' version '4.42'
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignett
-e.code.tex
-Library (tcolorbox): 'tcbvignette.code.tex' version '4.42'
+(/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.0.4'
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.0.4'
+) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.0.4'
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
-tikz/libraries\tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
-ibraryfadings.code.tex
-File: pgflibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/share/miktex-texmf/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.0.4'
 )))
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.
-code.tex
-Library (tcolorbox): 'tcbposter.code.tex' version '4.42'
-)))
+LaTeX Info: Redefining \oldstylenums on input line 30.
 LaTeX Font Info:    Trying to load font information for T1+XCharter-TLF on inpu
 t line 30.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\t1xcharter-
-tlf.fd
+ (/usr/local/share/miktex-texmf/tex/latex/xcharter/T1XCharter-TLF.fd
 File: T1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter-
 TLF.
 )
@@ -1994,7 +1599,30 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 30.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (main.aux)
+
+(main.aux
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \abx@aux@segm{0
+                    }{0}{dirac}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.67 \abx@aux@refcontextdefaultsdone
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -2011,23 +1639,12 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
-0.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 30.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 3
-0.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
-File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
-)
-LaTeX Font Info:    ... okay on input line 30.
 LaTeX Info: Redefining \microtypecontext on input line 30.
+Package microtype Info: Applying patch `item' on input line 30.
+Package microtype Info: Applying patch `toc' on input line 30.
+Package microtype Info: Applying patch `eqnum' on input line 30.
+Package microtype Info: Applying patch `footnote' on input line 30.
+Package microtype Info: Applying patch `verbatim' on input line 30.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2038,42 +1655,38 @@ LaTeX Info: Redefining \showhyphens on input line 30.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg
+ (/usr/local/share/miktex-texmf/tex/latex/microtype/mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 )
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
-.mkii
+(/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count478
-\scratchdimen=\dimen336
-\scratchbox=\box114
-\nofMPsegments=\count479
-\nofMParguments=\count480
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count481
-\MPscratchDim=\dimen337
-\MPnumerator=\count482
-\makeMPintoPDFobject=\count483
-\everyMPtoPDFconversion=\toks56
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
-f-base.sty
+\scratchcounter=\count498
+\scratchdimen=\dimen349
+\scratchbox=\box166
+\nofMPsegments=\count499
+\nofMParguments=\count500
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count501
+\MPscratchDim=\dimen350
+\MPnumerator=\count502
+\makeMPintoPDFobject=\count503
+\everyMPtoPDFconversion=\toks59
+) (/usr/local/share/miktex-texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(/usr/local/share/miktex-texmf/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen338
-\caption@adjustwidth@linewidth=\dimen339
+\caption@adjustwidth@hsize=\dimen351
+\caption@adjustwidth@linewidth=\dimen352
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2109,135 +1722,33 @@ Package lastpage Info: Please have a look at the pageslts package at
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count484
-\c@mv@boldtabular=\count485
+\c@mv@tabular=\count504
+\c@mv@boldtabular=\count505
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english
-.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+(/usr/local/share/miktex-texmf/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2021-02-18 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-ex
-pl3.sty
-Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
-)
 \openout3 = `main-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
+
+
+Package biblatex Warning: File 'main.bbl' is wrong format version - expected 3.
+2.
+
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+(main.bbl)
 Package biblatex Info: Reference section=0 on input line 30.
 Package biblatex Info: Reference segment=0 on input line 30.
-\c@lstlisting=\count486
-<../images/banner/PRP-banner.png, id=40, 1694.4906pt x 275.5896pt>
-File: ../images/banner/PRP-banner.png Graphic file (type png)
-<use ../images/banner/PRP-banner.png>
-Package pdftex.def Info: ../images/banner/PRP-banner.png  used on input line 32
-.
-(pdftex.def)             Requested size: 483.69687pt x 78.66579pt.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
-2.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
-File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `phv' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Overfull \hbox (10.00002pt too wide) in paragraph at lines 32--32
-[][]
- []
-
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 32.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-2.
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-2.
- (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-32.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-32.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 32.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
-
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
-
- (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 32.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 32.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 32.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 32.
- (main.toc)
-\tf@toc=\write7
-\openout7 = `main.toc'.
-
-
-Overfull \hbox (10.00002pt too wide) in paragraph at lines 32--32
-[][]
- []
-
-<../images/paper-white.jpg, id=42, 631.35875pt x 963.6pt>
+\c@lstlisting=\count506
+<../images/paper-white.jpg, id=40, 631.35875pt x 963.6pt>
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
 Package pdftex.def Info: ../images/paper-white.jpg  used on input line 32.
@@ -2250,247 +1761,28 @@ File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
 Package pdftex.def Info: ../images/paper-white.jpg  used on input line 32.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-<../images/footerscroll.png, id=43, 596.2275pt x 42.1575pt>
+<../images/footerscroll.png, id=41, 596.2275pt x 42.1575pt>
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
 Package pdftex.def Info: ../images/footerscroll.png  used on input line 32.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
-[1
+ [1
 
+{/home/awtorode/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
+! pdfTeX error (font expansion): auto expansion is only possible with scalable 
+fonts.
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.32 \maketitle
+                % Print the title
 
-
-{C:/Users/awtorode/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/pa
-per-white.jpg> <../images/banner/PRP-banner.png> <../images/footerscroll.png>]
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 38.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/XCharter-TLF/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 16.94pt on input line 38.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 24.9119pt on input line 38.
-Package lettrine.sty Info: Targeted height = 16.94pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 16.9401pt (\color {DarkBlue}{L});
-(lettrine.sty)             reported on input line 38.
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-
- []
-
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 44.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 44.
-
-LaTeX Warning: Citation 'einstein' on page 2 undefined on input line 46.
-
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 46.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 46.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
-
-Overfull \hbox (14.22903pt too wide) in paragraph at lines 50--50
-[][] 
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on inp
-ut line 55.
-
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter
--tlf.fd
-File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter
--TLF.
-)
-LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 55.
-Package microtype Info: Character `textbardbl ' is missing
-(microtype)             in font `TS1/XCharter-TLF/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textcelsius ' is missing
-(microtype)             in font `TS1/XCharter-TLF/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 67.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 67.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 67.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/footerscroll.png Graphic file (type png)
-<use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 67.
-(pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
- [2
-
-]
-<bear.jpg, id=58, 546.3612pt x 362.7954pt>
-File: bear.jpg Graphic file (type jpg)
-<use bear.jpg>
-Package pdftex.def Info: bear.jpg  used on input line 88.
-(pdftex.def)             Requested size: 231.88997pt x 153.97841pt.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 89.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 89.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 111.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 111.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 111.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/footerscroll.png Graphic file (type png)
-<use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 111.
-(pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
- [3 <./bear.jpg>]
-Package mdframed Info: mdframed works in twoside mode on input line 114.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 114.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 117.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 126.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 126.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 126.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/footerscroll.png Graphic file (type png)
-<use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 126.
-(pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
- [4]
-<../images/blue-abstract.jpg, id=69, 3212.0pt x 2248.4pt>
-File: ../images/blue-abstract.jpg Graphic file (type jpg)
-<use ../images/blue-abstract.jpg>
-Package pdftex.def Info: ../images/blue-abstract.jpg  used on input line 127.
-(pdftex.def)             Requested size: 231.87157pt x 56.12752pt.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 137.
-
-Underfull \hbox (badness 2762) in paragraph at lines 137--137
-\T1/XCharter-TLF/m/it/10 (+20) of Quan-tum Me-chan-ics\T1/XCharter-TLF/m/n/10 (
-+20) . In-ter-na-tional se-ries of
- []
-
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-37.
-(C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-
-AED: lastpage setting LastPage
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-[leftcolumn badness]: 1000000 on 7.8257pt
-[rightcolumn badness]: 1000000 on 7.8257pt
-- LAST -
-Extra skip:13.24387pt
-Left:538.0pt/2.19499pt
-Right:524.75613pt/2.19499pt
-Split: 538.37807pt
-Output:538.37807pt
-Pageshrink: 5.86089pt
-Pagestretch: 12.16539pt
-@colht:718.55255pt
-FLUSHEND [output]: 538.37807pt
-FLUSHEND [leftcolumn badness]: 0
-FUSHEND [rightcolumn badness]: 239
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 142.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 142.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/paper-white.jpg Graphic file (type jpg)
-<use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 142.
-(pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
-File: ../images/footerscroll.png Graphic file (type png)
-<use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 142.
-(pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
-[5 <../images/blue-abstract.jpg>] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 40054 strings out of 479334
- 835542 string characters out of 2855658
- 1710373 words of memory out of 3000000
- 56457 multiletter control sequences out of 15000+200000
- 578080 words of font info for 247 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 99i,17n,105p,1918b,1839s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc
-}{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_
-yelf2i.enc}{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/
-lm-rm.enc}{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
-m-mathit.enc}{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/x
-charter/xch_rydp4l.enc}{C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/e
-nc/dvips/xcharter/xch1_co4ru4.enc}{C:/Users/awtorode/AppData/Local/Programs/MiK
-TeX/fonts/enc/dvips/base/8r.enc}<C:/Users/awtorode/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/awtorode/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/awt
-orode/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.
-pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi
-10.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mr10.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmr7.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
-m/lmtt10.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/urw/h
-elvetic/uhvb8a.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (5 pages, 1149259 bytes).
-PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 70326 words of extra memory for PDF output out of 74296 (max. 10000000)
-
+ 40820 strings out of 477438
+ 860390 string characters out of 5813910
+ 1923254 words of memory out of 5000000
+ 61149 multiletter control sequences out of 15000+600000
+ 566216 words of font info for 44 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 91i,18n,99p,1950b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
