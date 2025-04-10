@@ -74,7 +74,11 @@
 %Header includes the page background
 \fancyhead{
 	\begin{tikzpicture}[remember picture,overlay]
+		\ifprinter
+		\node[inner sep=0pt] at (current page.center) {};
+		\else
 		\node[inner sep=0pt] at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{../images/paper-white}};
+		\fi
 	\end{tikzpicture}
 }
 

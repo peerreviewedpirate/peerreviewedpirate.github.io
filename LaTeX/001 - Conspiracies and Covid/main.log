@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2025.4.10)  10 APR 2025 11:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2025.4.10)  10 APR 2025 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1602,15 +1602,15 @@ File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/local/share/miktex-texmf/tex/latex/tcolorbox/tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.4.1'
 )))
-LaTeX Info: Redefining \oldstylenums on input line 36.
+LaTeX Info: Redefining \oldstylenums on input line 39.
 LaTeX Font Info:    Trying to load font information for T1+XCharter-TLF on inpu
-t line 36.
+t line 39.
  (/usr/local/share/miktex-texmf/tex/latex/xcharter/T1XCharter-TLF.fd
 File: T1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter-
 TLF.
 )
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 36.
+(Font)              scaled to size 10.0pt on input line 39.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
@@ -1624,34 +1624,34 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Info: Redefining \microtypecontext on input line 36.
-Package microtype Info: Applying patch `item' on input line 36.
-Package microtype Info: Applying patch `toc' on input line 36.
-Package microtype Info: Applying patch `eqnum' on input line 36.
-Package microtype Info: Applying patch `footnote' on input line 36.
-Package microtype Info: Applying patch `verbatim' on input line 36.
-LaTeX Info: Redefining \microtypesetup on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Applying patch `item' on input line 39.
+Package microtype Info: Applying patch `toc' on input line 39.
+Package microtype Info: Applying patch `eqnum' on input line 39.
+Package microtype Info: Applying patch `footnote' on input line 39.
+Package microtype Info: Applying patch `verbatim' on input line 39.
+LaTeX Info: Redefining \microtypesetup on input line 39.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 36.
+LaTeX Info: Redefining \showhyphens on input line 39.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -2021,17 +2021,17 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
 \c@lstlisting=\count518
 <../images/banner/PRP-banner.png, id=40, 1694.4906pt x 275.5896pt>
 File: ../images/banner/PRP-banner.png Graphic file (type png)
 <use ../images/banner/PRP-banner.png>
-Package pdftex.def Info: ../images/banner/PRP-banner.png  used on input line 38
+Package pdftex.def Info: ../images/banner/PRP-banner.png  used on input line 41
 .
 (pdftex.def)             Requested size: 483.69687pt x 78.66579pt.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
-8.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+1.
  (/usr/local/share/miktex-texmf/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -2040,14 +2040,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (10.00002pt too wide) in paragraph at lines 38--38
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 41--41
 [][]
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 38.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-8.
+(Font)              scaled to size 12.0pt on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+1.
 (/usr/local/share/miktex-texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2055,31 +2055,31 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-8.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+1.
 
 (/usr/local/share/miktex-texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-38.
+41.
 
 (/usr/local/share/miktex-texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-38.
+41.
 
 (/usr/local/share/miktex-texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 38.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+(Font)              <6> on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsa.fd
@@ -2088,7 +2088,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/share/miktex-texmf/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsb.fd
@@ -2098,15 +2098,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 38.
+(Font)              <10> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 41.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 38.
+(Font)              scaled to size 7.0pt on input line 41.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 38.
+(Font)              scaled to size 9.0pt on input line 41.
  (main.toc
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 2.
@@ -2119,7 +2119,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 \openout5 = `main.toc'.
 
 
-Overfull \hbox (10.00002pt too wide) in paragraph at lines 38--38
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 41--41
 [][]
  []
 
@@ -2128,20 +2128,20 @@ Overfull \hbox (10.00002pt too wide) in paragraph at lines 38--38
 <../images/paper-white.jpg, id=42, 631.35875pt x 963.6pt>
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 38.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 41.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 38.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 41.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 38.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 41.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 <../images/footerscroll.png, id=43, 596.2275pt x 42.1575pt>
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 38.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 41.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [1
 
@@ -2206,42 +2206,42 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 60.
 {/usr/local/share/miktex-texmf/fonts/enc/dvips/xcharter/xch1_co4ru4.enc} <../im
 ages/section_break.png>])
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 48.
+(Font)              scaled to size 10.0pt on input line 51.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/XCharter-TLF/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 16.94pt on input line 48.
+(Font)              scaled to size 16.94pt on input line 51.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 24.9119pt on input line 48.
+(Font)              scaled to size 24.9119pt on input line 51.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
  []
 
 Package lettrine.sty Info: Targeted height = 16.94pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.9401pt (\color {DarkBlue}{B});
-(lettrine.sty)             reported on input line 48.
+(lettrine.sty)             reported on input line 51.
 
 
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 78.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 81.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 78.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 81.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 78.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 81.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 78.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 81.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [3
 
@@ -2249,85 +2249,85 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 78.
 ]
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 98.
+(Font)              scaled to size 6.0pt on input line 101.
 File: ../images/section_break.png Graphic file (type png)
 <use ../images/section_break.png>
-Package pdftex.def Info: ../images/section_break.png  used on input line 113.
+Package pdftex.def Info: ../images/section_break.png  used on input line 116.
 (pdftex.def)             Requested size: 208.69955pt x 40.87782pt.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 121.
-Package mdframed Info: mdframed works in twoside mode on input line 125.
+(Font)              scaled to size 10.0pt on input line 124.
+Package mdframed Info: mdframed works in twoside mode on input line 128.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 125.
+(mdframed)              on input line 128.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 127.
+ mdframed uses option nobreak mdframed on input line 130.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 127.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 130.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 127.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 130.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 127.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 130.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 127.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 130.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [4]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 135.
+(Font)              scaled to size 5.0pt on input line 138.
 
 
-Package mdframed Info: mdframed works in twoside mode on input line 143.
+Package mdframed Info: mdframed works in twoside mode on input line 146.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 143.
+(mdframed)              on input line 146.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 144.
+(Font)              scaled to size 10.0pt on input line 147.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 144.
+(Font)              scaled to size 7.0pt on input line 147.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 144.
+(Font)              scaled to size 6.0pt on input line 147.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 145.
+(mdframed)              on input line 148.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 150.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 153.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 150.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 153.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 150.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 153.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 150.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 153.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [5{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/s
 hare/miktex-texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/share/miktex-texmf/f
 onts/enc/dvips/lm/lm-mathsy.enc}]
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 164--165
+Underfull \hbox (badness 2050) in paragraph at lines 167--168
 \T1/XCharter-TLF/m/n/10 (+20) from ap-prox-i-mately 20,000 vac-cine and
  []
 
 File: ../images/section_break.png Graphic file (type png)
 <use ../images/section_break.png>
-Package pdftex.def Info: ../images/section_break.png  used on input line 184.
+Package pdftex.def Info: ../images/section_break.png  used on input line 187.
 (pdftex.def)             Requested size: 208.69955pt x 40.87782pt.
 
 Underfull \vbox (badness 6658) has occurred while \output is active []
@@ -2336,23 +2336,23 @@ Underfull \vbox (badness 6658) has occurred while \output is active []
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 184.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 187.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 184.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 187.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 184.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 187.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 184.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 187.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [6]
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 195.
+(Font)              scaled to size 10.0pt on input line 198.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2365,57 +2365,57 @@ Package microtype Info: Character `textcelsius ' is missing
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 215.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 218.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 215.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 218.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 215.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 218.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 215.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 218.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [7]
 File: ../images/section_break.png Graphic file (type png)
 <use ../images/section_break.png>
-Package pdftex.def Info: ../images/section_break.png  used on input line 228.
+Package pdftex.def Info: ../images/section_break.png  used on input line 231.
 (pdftex.def)             Requested size: 208.69955pt x 40.87782pt.
-Package mdframed Info: mdframed works in twoside mode on input line 235.
+Package mdframed Info: mdframed works in twoside mode on input line 238.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 235.
+(mdframed)              on input line 238.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 241.
+(mdframed)              on input line 244.
 
 
-Package mdframed Info: mdframed works in twoside mode on input line 253.
+Package mdframed Info: mdframed works in twoside mode on input line 256.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 253.
+(mdframed)              on input line 256.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 255.
+ mdframed uses option nobreak mdframed on input line 258.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 260.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 263.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 260.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 263.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 260.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 263.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 260.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 263.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [8]
 
@@ -2423,52 +2423,52 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 260.
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 278.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 281.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 278.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 281.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 278.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 281.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 278.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 281.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package mdframed Info: mdframed works in twoside mode on input line 295.
+Package mdframed Info: mdframed works in twoside mode on input line 298.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 295.
+(mdframed)              on input line 298.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 297.
+ mdframed uses option nobreak mdframed on input line 300.
 File: ../images/section_break.png Graphic file (type png)
 <use ../images/section_break.png>
-Package pdftex.def Info: ../images/section_break.png  used on input line 318.
+Package pdftex.def Info: ../images/section_break.png  used on input line 321.
 (pdftex.def)             Requested size: 208.69955pt x 40.87782pt.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 323.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 326.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 323.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 326.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 323.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 326.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 323.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 326.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [10]
 
@@ -2476,36 +2476,36 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 323.
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 383.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 386.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 383.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 386.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 383.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 386.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 383.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 386.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [11]
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 404--405
+Underfull \hbox (badness 1107) in paragraph at lines 407--408
 \T1/XCharter-TLF/m/n/10 (+20) me-dia and var-i-ous or-ga-ni-za-tions ap-peared 
 to be
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 412--413
+Underfull \hbox (badness 3009) in paragraph at lines 415--416
 []\T1/XCharter-TLF/m/n/10 (+20) "Discovered in the late-1970s, the pi-o-neer-in
 g
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 412--413
+Underfull \hbox (badness 5359) in paragraph at lines 415--416
 \T1/XCharter-TLF/m/n/10 (+20) drug iver-mectin, a di-hy-dro deriva-tive of aver
 -
  []
@@ -2514,22 +2514,22 @@ Underfull \hbox (badness 5359) in paragraph at lines 412--413
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 417.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 420.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 417.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 420.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 417.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 420.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 417.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 420.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [12]
-Underfull \hbox (badness 1052) in paragraph at lines 434--435
+Underfull \hbox (badness 1052) in paragraph at lines 437--438
 \T1/XCharter-TLF/m/n/10 (+20) 19 pa-tients. NAC has an-tiox-i-dant, anti-
  []
 
@@ -2539,27 +2539,27 @@ Underfull \hbox (badness 1052) in paragraph at lines 434--435
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 457.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 460.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 457.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 460.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 457.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 460.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 457.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 460.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [13]
-Underfull \hbox (badness 1226) in paragraph at lines 458--459
+Underfull \hbox (badness 1226) in paragraph at lines 461--462
 []\T1/XCharter-TLF/m/n/10 (+20) ``Both chloro-quine and hy-drox-y-chloro-
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 458--459
+Underfull \hbox (badness 1622) in paragraph at lines 461--462
 \T1/XCharter-TLF/m/n/10 (+20) gly-co-sy-la-tion of the cel-lu-lar angiotensin-
  []
 
@@ -2569,19 +2569,19 @@ Underfull \hbox (badness 1622) in paragraph at lines 458--459
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 490.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 493.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 490.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 493.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 490.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 493.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 490.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 493.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [14]
 
@@ -2589,50 +2589,50 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 490.
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 529.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 529.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 529.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 532.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 529.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 532.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [15]
-Package mdframed Info: mdframed works in twoside mode on input line 533.
+Package mdframed Info: mdframed works in twoside mode on input line 536.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 533.
+(mdframed)              on input line 536.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 535.
+(mdframed)              on input line 538.
 
 
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 569.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 572.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 569.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 572.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 569.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 572.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 569.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 572.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 589--591
+Underfull \hbox (badness 10000) in paragraph at lines 592--594
 []\T1/XCharter-TLF/m/n/10 (+20) ``Despite the well-known lim-i-ta-tions,
  []
 
@@ -2642,42 +2642,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 589--591
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 606.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 609.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 606.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 609.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 606.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 609.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 606.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 609.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [17]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 5.0pt on input line 609.
+(Font)              scaled to size 5.0pt on input line 612.
 
 
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 664.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 667.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 664.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 667.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 664.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 667.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 664.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 667.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [18]
 
@@ -2685,72 +2685,72 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 664.
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 696.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 699.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 696.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 699.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 696.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 699.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 696.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 699.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [19]
 
-Package mdframed Info: mdframed works in twoside mode on input line 716.
+Package mdframed Info: mdframed works in twoside mode on input line 719.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 716.
+(mdframed)              on input line 719.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 718.
+ mdframed uses option nobreak mdframed on input line 721.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 721.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 724.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 721.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 724.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 721.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 724.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 721.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 724.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [20]
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 753.
+(Font)              scaled to size 8.0pt on input line 756.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 757.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 760.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 757.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 760.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 757.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 760.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 757.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 760.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [21]
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 777--778
+Underfull \hbox (badness 1997) in paragraph at lines 780--781
 []\T1/XCharter-TLF/m/n/10 (+20) ``Evidence pro-vided sug-gests that the
  []
 
@@ -2758,19 +2758,19 @@ Underfull \hbox (badness 1997) in paragraph at lines 777--778
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 794.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 797.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 794.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 797.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 794.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 797.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 794.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 797.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [22]
 
@@ -2778,22 +2778,22 @@ Package pdftex.def Info: ../images/footerscroll.png  used on input line 794.
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 845.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 848.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 845.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 848.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 845.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 848.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 845.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 848.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [23]
-Underfull \hbox (badness 4441) in paragraph at lines 850--851
+Underfull \hbox (badness 4441) in paragraph at lines 853--854
 []\T1/XCharter-TLF/m/n/10 (+20) ``We dis-cov-ered spe-cific amino acids
  []
 
@@ -2803,29 +2803,29 @@ Underfull \hbox (badness 4441) in paragraph at lines 850--851
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 896.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 899.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 896.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 899.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 896.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 899.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 896.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 899.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [24]
-Package mdframed Info: mdframed works in twoside mode on input line 903.
+Package mdframed Info: mdframed works in twoside mode on input line 906.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 903.
+(mdframed)              on input line 906.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 905.
+ mdframed uses option nobreak mdframed on input line 908.
 
-Underfull \vbox (badness 10000) detected at line 905
+Underfull \vbox (badness 10000) detected at line 908
  []
 
 
@@ -2833,87 +2833,87 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package mdframed Info: mdframed works in twoside mode on input line 907.
+Package mdframed Info: mdframed works in twoside mode on input line 910.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 907.
+(mdframed)              on input line 910.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 909.
-Package mdframed Info: mdframed works in twoside mode on input line 913.
+ mdframed uses option nobreak mdframed on input line 912.
+Package mdframed Info: mdframed works in twoside mode on input line 916.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 913.
+(mdframed)              on input line 916.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 915.
-Package mdframed Info: mdframed works in twoside mode on input line 919.
+ mdframed uses option nobreak mdframed on input line 918.
+Package mdframed Info: mdframed works in twoside mode on input line 922.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 919.
+(mdframed)              on input line 922.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 921.
+ mdframed uses option nobreak mdframed on input line 924.
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 924.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 927.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 924.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 927.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 924.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 927.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 924.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 927.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [25]
-Package mdframed Info: mdframed works in twoside mode on input line 933.
+Package mdframed Info: mdframed works in twoside mode on input line 936.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 933.
+(mdframed)              on input line 936.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 935.
-Package mdframed Info: mdframed works in twoside mode on input line 941.
+ mdframed uses option nobreak mdframed on input line 938.
+Package mdframed Info: mdframed works in twoside mode on input line 944.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 941.
+(mdframed)              on input line 944.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 943.
+ mdframed uses option nobreak mdframed on input line 946.
 
 
 
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 958.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 961.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 958.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 961.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 958.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 961.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 958.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 961.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [26]
 File: ../images/section_break.png Graphic file (type png)
 <use ../images/section_break.png>
-Package pdftex.def Info: ../images/section_break.png  used on input line 978.
+Package pdftex.def Info: ../images/section_break.png  used on input line 981.
 (pdftex.def)             Requested size: 208.69955pt x 40.87782pt.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 984.
+(Font)              scaled to size 9.0pt on input line 987.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/XCharter-TLF/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-84.
+87.
  (/usr/local/share/miktex-texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2922,32 +2922,32 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) Bossche, Geert Van-den (n.d.). \T1/XCharter-TL
 F/m/it/9 (+20) Cur-ricu-lum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/it/9 (+20) vi-tae\T1/XCharter-TLF/m/n/9 (+20) . \T1/XCharter
 -TLF/m/sc/9 (+20) url\T1/XCharter-TLF/m/n/9 (+20) : $\T1/lmtt/m/n/9 https : / /
  uploads -[] ssl .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 webflow . com / 616004c52e87ed08692f5692 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 616c6c54947a5d46132186d0 _ geerte -[] vanden -[]
  []
 
 
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 984--984
+Underfull \hbox (badness 1215) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 / / www . ncbi . nlm . nih . gov / pmc / articles /
  []
 
@@ -2955,47 +2955,47 @@ Underfull \hbox (badness 1215) in paragraph at lines 984--984
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 984.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 987.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [27{/usr/local/share/miktex-texmf/fonts/enc/dvips/xcharter/xch_yelf2i.enc}{/usr
 /local/share/miktex-texmf/fonts/enc/dvips/lm/lm-ec.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) In: \T1/XCharter-TLF/m/it/9 (+20) FDA News Re-leas
 e\T1/XCharter-TLF/m/n/9 (+20) . https://www.fda.gov/news-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) events/press-announcements/fda-approves-first-covi
 d-
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 984--984
+Underfull \hbox (badness 1226) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) 10.1016/j.vaccine.2021.08.006, pp. 6017^^U6018. \T
 1/XCharter-TLF/m/sc/9 (+20) url\T1/XCharter-TLF/m/n/9 (+20) :
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 984--984
+Underfull \hbox (badness 2452) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) i-lar-i-ties be-tween SARS[]CoV and SARS[]CoV[]2: 
 spike
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 984--984
+Underfull \hbox (badness 1205) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) ^^P  Jus-tice De-part-ment An-nounces Largest Heal
 th Care
  []
@@ -3003,63 +3003,63 @@ th Care
 
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 984--984
+Underfull \hbox (badness 3861) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) Lei Y Zhang J, Schi-avon CR et al. (2021). ^^P
   SARS-
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 984--984
+Underfull \hbox (badness 6477) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) CoV-2 Spike Pro-tein Im-pairs En-dothe-lial Func-t
 ion
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 984--984
+Underfull \hbox (badness 1527) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) via Down-reg-u-la-tion of ACE 2.^^Q In: \T1/XChart
 er-TLF/m/it/9 (+20) Circ Res. \T1/XCharter-TLF/m/n/9 (+20) 128.9.
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 984--984
+Underfull \hbox (badness 1087) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 352837543 _ Analysis _ of _ COVID -[] 19 _ vaccine _
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 984--984
+Underfull \hbox (badness 1132) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 death _ reports _ from _ the _ Vaccine _ Adverse _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) NIH (2021). ^^P  Chloro-quine or Hy-drox-y-chl
 oro-quine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) and/or Azithromycin^^Q. In: \T1/XCharter-TLF/m/sc/
 9 (+20) url\T1/XCharter-TLF/m/n/9 (+20) : $\T1/lmtt/m/n/9 https : / /
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 984--984
+Underfull \hbox (badness 4634) in paragraph at lines 987--987
 \T1/lmtt/m/n/9 www . covid19treatmentguidelines . nih . gov /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) NIH, Na-tional Can-cer In-sti-tute
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) (n.d.). \T1/XCharter-TLF/m/it/9 (+20) SARS-CoV-2\T
 1/XCharter-TLF/m/n/9 (+20) . On-line Ar-ti-cle.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (-19) https://www.cancer.gov/publications/dictionaries/c
 ancer-
  []
@@ -3068,101 +3068,101 @@ ancer-
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 984.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 987.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [28]
-Underfull \hbox (badness 2126) in paragraph at lines 984--984
+Underfull \hbox (badness 2126) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) 07302048)^^Q. In: (). \T1/XCharter-TLF/m/sc/9 (+20
 ) url\T1/XCharter-TLF/m/n/9 (+20) : $\T1/lmtt/m/n/9 https : / / www . pmda .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][][]\T1/XCharter-TLF/m/n/9 (+20) (2021a). ^^P  VAC-CINE IN-FOR-MA-TION FACT S
 HEET
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) FOR RE-CIP-I-ENTS AND CARE-GIVERS ABOUT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) COMIR-NATY (COVID-19 VAC-CINE, mRNA) AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) PFIZER-BIONTECH COVID-19 VAC-CINE TO PRE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) VENT CORO-N-AVIRUS DIS-EASE 2019 (COVID-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) 19)^^Q. In: https://health.utahcounty.gov/wp-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][][]\T1/XCharter-TLF/m/n/9 (+20) (2021b). ^^P  VAC-CINE IN-FOR-MA-TION FACT S
 HEET
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) NATY (COVID-19 VAC-CINE, mRNA) AND THE
  []
 
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) Shi, Zhongcheng and Car-los A Puyo (2020). ^^P
   N-
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 984--984
+Underfull \hbox (badness 4899) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) Acetylcysteine to Com-bat COVID-19: An Ev-i-dence
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 984--984
+Underfull \hbox (badness 2134) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) Sivan Gazit, et. al. (2021a). ^^P  Com-par-ing
  SARS-CoV-2
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 984--984
+Underfull \hbox (badness 3989) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/it/9 (+20) Dura-bil-ity\T1/XCharter-TLF/m/n/9 (+20) . eng. S
 F-B/TR 15 Dis-cus-sion Pa-per 246.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 [][]\T1/XCharter-TLF/m/n/9 (+20) Tonzani, Ste-fano (2009). ^^P  Light-ing tech-
 nol-ogy:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--984
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
 \T1/XCharter-TLF/m/n/9 (+20) Time to change the bulb^^Q. In: \T1/XCharter-TLF/m
 /it/9 (+20) Na-ture \T1/XCharter-TLF/m/n/9 (+20) 459.
  []
@@ -3171,19 +3171,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 984--984
 
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 984.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 987.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 984.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 987.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [29]
 
@@ -3247,19 +3247,19 @@ FLUSHEND [leftcolumn badness]: 10000
 FUSHEND [rightcolumn badness]: 0
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 989.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 992.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 989.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 992.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/paper-white.jpg Graphic file (type jpg)
 <use ../images/paper-white.jpg>
-Package pdftex.def Info: ../images/paper-white.jpg  used on input line 989.
+Package pdftex.def Info: ../images/paper-white.jpg  used on input line 992.
 (pdftex.def)             Requested size: 597.54276pt x 845.07408pt.
 File: ../images/footerscroll.png Graphic file (type png)
 <use ../images/footerscroll.png>
-Package pdftex.def Info: ../images/footerscroll.png  used on input line 989.
+Package pdftex.def Info: ../images/footerscroll.png  used on input line 992.
 (pdftex.def)             Requested size: 597.5452pt x 43.36351pt.
 [30] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -3277,10 +3277,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43417 strings out of 473493
- 929900 string characters out of 5720600
- 1889717 words of memory out of 5000000
- 65213 multiletter control sequences out of 15000+600000
+ 43420 strings out of 473493
+ 929932 string characters out of 5720600
+ 1890021 words of memory out of 5000000
+ 65216 multiletter control sequences out of 15000+600000
  822743 words of font info for 536 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,18n,99p,1950b,2098s stack positions out of 10000i,1000n,20000p,200000b,200000s

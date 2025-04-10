@@ -4,9 +4,12 @@
 
 \documentclass[10pt, a4paper, twocolumn]{book} 
 
-\newcommand{\Version}{001 }
-
+\newcommand{\Version}{001 } % End this with a space.
 \newcommand{\DateToUse}{January 2, 2022}
+
+% Define the mode: set to true for PRINTER or false for DIGITAL
+\newif\ifprinter
+\printerfalse  % or \printerfalse
 
 \input{../resources/structure.tex} % Specifies the document structure and loads requires packages
 
