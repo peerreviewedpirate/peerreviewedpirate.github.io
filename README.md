@@ -1,2 +1,2 @@
-# GitWebsiteTutorial.github.io
-A github.io website tutorial for creating a webpage.
+# PeerReviewedPirate.github.io
+A github.io website for hosting articles for the Peer Reviewed Pirate Publication.
